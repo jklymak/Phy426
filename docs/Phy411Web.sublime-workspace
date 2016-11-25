@@ -1,0 +1,372 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"forcing",
+				"Forcing"
+			],
+			[
+				"dy",
+				"dy"
+			],
+			[
+				"uN",
+				"uN"
+			],
+			[
+				"hfacS",
+				"hFacS"
+			],
+			[
+				"endif",
+				"ENDIF"
+			],
+			[
+				"pbot",
+				"pbot"
+			],
+			[
+				"hf",
+				"hFacC"
+			],
+			[
+				"EQ",
+				"EQ"
+			],
+			[
+				"j",
+				"j"
+			],
+			[
+				"V0C",
+				"V0C"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"uw",
+				"uw"
+			],
+			[
+				"n",
+				"n"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 107.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"lo",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"tas",
+				"Tasks: New document"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"mult",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"prev",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"markdo",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"snip",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"syntax: ma",
+				"Set Syntax: Markdown"
+			],
+			[
+				"mark",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"late",
+				"Set Syntax: LaTeX Beamer"
+			],
+			[
+				"Pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Network/sansumdata/Modelling/Tas3d/input/data.diagnostics",
+		"/Network/sansumdata/Modelling/Tas3d/input/data",
+		"/Network/sansumdata/Modelling/Tas3d/input/runModel.sh",
+		"/Network/sansumdata/Modelling/Tas3d/input/data.pp81",
+		"/Users/jklymak/Dropbox/Teaching/Phy411Web/blog/index.html",
+		"/Users/jklymak/Dropbox/Teaching/Phy411Web/_layouts/default.html",
+		"/Users/jklymak/Dropbox/Teaching/Phy411Web/Texts.md",
+		"/Network/sansumdata/Modelling/Tas3d/input/gendata.py",
+		"/Network/sansumdata/Modelling/hydraulicKL10/input/gendata.py",
+		"/gendata.py",
+		"/Users/jklymak/Dropbox/Teaching/Phy411/lectures/Lecture-02-Statistics-of-Bivariate-Variables.ipynb",
+		"/Users/jklymak/Dropbox/ProjectDocs/projtemplate/index.md",
+		"/Users/jklymak/Dropbox/Teaching/Phy411Web/CourseProject.md",
+		"/Users/jklymak/Dropbox/Site/index.md",
+		"/Users/jklymak/Dropbox/Site/_posts/2013-09-02-Testr.md",
+		"/Users/jklymak/Dropbox/Teaching/Eos314/Readings/A16_pdf/A16_THETA.pdf",
+		"/Users/jklymak/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/6C11B721-CFD6-4347-A2D7-084866E38E66/data.obcs",
+		"/Users/jklymak/Dropbox/PW13/README.md",
+		"/Network/sansumdata/Modelling/RbcsTest/input/gendata.py",
+		"/Network/sansumdata/Modelling/RbcsTest/input/data.obcs",
+		"/Users/jklymak/MITgcmcode/input/gendata.py",
+		"/Users/jklymak/downloads/contour_demo.py",
+		"/Users/jklymak/ownCloud/budgets.dat",
+		"/Users/jklymak/LM12/mvp/plotThreeDIso.py",
+		"/Users/jklymak/ownCloud/bin/runtoday.sh",
+		"/Users/jklymak/Library/LaunchAgents/ca.uvic.seos.hornby.runToday.plist",
+		"/Users/jklymak/downloads/contourf3d_demo2.py",
+		"/Network/sansumdata/Modelling/MITgcm_c63o/model/inc/GRID.h",
+		"/Network/sansumdata/Modelling/TestEnergyDiag/code/pp81_calc.F",
+		"/Network/sansumdata/Modelling/TestEnergyDiag/code/energy_diagnostics_fill.F",
+		"/Network/sansumdata/Modelling/WA13Dns/input/runModel.sh",
+		"/Users/jklymak/WA13/monitorSimCoarseEn.py",
+		"/Users/jklymak/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/matrix_cohere-1.m",
+		"/Users/jklymak/WA13/HighRes/gendata.py",
+		"/usr/local/texlive/2013/texmf-dist/tex/latex/nature/nature.cls",
+		"/Users/jklymak/ownCloud/Saanich13/GridAUV.py",
+		"/Users/jklymak/python/lib/jmkdata.py",
+		"/Users/jklymak/ownCloud/Saanich13/PlotCTD.py",
+		"/Users/jklymak/python/lib/jmkfigure.py",
+		"/Users/jklymak/downloads/connectionstyle_demo.py",
+		"/usr/local/lib/python2.7/site-packages/adsbibdesk.py",
+		"/Users/jklymak/python/ads_bibdesk/adsbibdesk.py",
+		"/Network/sansumdata/Modelling/WA13Dns/input/dataHighK",
+		"/Network/sansumdata/Modelling/WA13Dns/input/data.obcs1300",
+		"/Users/jklymak/LM12/adcp/proc/wh300/config/at19b_proc.py",
+		"/Users/jklymak/WA13/monitorSimDnsEn.py",
+		"/Users/jklymak/WA13/plotDns.py",
+		"/Users/jklymak/python/lib/misc.py",
+		"/Users/jklymak/python/lib/matfile.py",
+		"/Users/jklymak/Dropbox/Todos/JMK.TODO",
+		"/Users/jklymak/Dropbox/FalkorWatercolumn/matlab/plotTopo.m",
+		"/Users/jklymak/ownCloud/docs/UvicVita/biball.sh",
+		"/Users/jklymak/Dropbox/Todos/Projects.md",
+		"/Users/jklymak/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/jklymak/Library/Application Support/Sublime Text 2/Packages/MarkdownEditing/Markdown.sublime-settings",
+		"/Users/jklymak/Library/Application Support/Sublime Text 2/Packages/User/Markdown.sublime-settings",
+		"/Users/jklymak/Dropbox/test.TODO",
+		"/Users/jklymak/Dropbox/people.TODO",
+		"/Users/jklymak/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/var/folders/vy/zxjl84j90ws6d1k09_rhst0w0000gn/T/sublime-sftp-browse-1355284121/hornby/Users/jklymak/teaching/Phy411/python/RealData_files/RealData_fig_01.png",
+		"/var/folders/vy/zxjl84j90ws6d1k09_rhst0w0000gn/T/sublime-sftp-browse-1355284032/hornby/Users/jklymak/NotesTemplate.tex"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"500",
+			"dth",
+			"20",
+			"strong",
+			"dy",
+			"dth=",
+			"dth",
+			"noReal",
+			"real",
+			"2.",
+			"vertMo",
+			"fit",
+			"header",
+			"font-s",
+			"ray",
+			"font-si",
+			"ray",
+			"sall",
+			"clim",
+			"process",
+			"process_ar",
+			"BibDesk",
+			"def BibDesk",
+			"BibDesk",
+			"bibde",
+			"def bibde",
+			".call",
+			"__call__",
+			"bibtex",
+			"keptPDF",
+			"dois",
+			"doi",
+			"ADSConnector",
+			"debug",
+			"facet",
+			"uE",
+			"hfac",
+			"rhoC",
+			"rC",
+			"dx",
+			"x",
+			"nleft",
+			"potential",
+			"pden",
+			"100",
+			"bunch",
+			"~/texmf/bibtex/main.bib",
+			"\n",
+			"boo",
+			"proident",
+			"sublime"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 383.0,
+	"status_bar_visible": true
+}

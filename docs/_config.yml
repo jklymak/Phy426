@@ -1,12 +1,26 @@
-# Site settings
-title: Physics 426 Fluid Mechanics
-email: jklymak@uvic.ca
-description: > # this means to ignore newlines until "baseurl:"
-  Fluid Mechanics Physics 426 at University of Victoria, BC.  Instructor: Jody Klymak 
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+# Dependencies
+markdown:         redcarpet
+pygments:         true
 
-# Build settings
-markdown: kramdown
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Phy 426 Fluid Mechanics
+tagline:          'Fluid Mechanics'
+description:      ''
+url:              http://jklymak.github.io/Phy426/
+baseurl:          '/Phy426'
+
+author:
+  name:           'Jody Klymak'
+  url:            http://web.uvic.ca/~jklymak
+
+paginate:         5
+paginate_path: "blog/page:num"
+
+# Custom vars
+version:          2.0.0
+
+github:
+  repo:           https://github.com/jklymak/Phy426
