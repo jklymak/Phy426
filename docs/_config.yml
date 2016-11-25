@@ -1,5 +1,4 @@
 # Dependencies
-pygments:         true
 
 # Permalinks
 permalink:        pretty
@@ -17,9 +16,6 @@ author:
 
 paginate:         5
 paginate_path: "blog/page:num"
-
-# Custom vars
-version:          2.0.0
 
 github:
   repo:           https://github.com/jklymak/Phy426
