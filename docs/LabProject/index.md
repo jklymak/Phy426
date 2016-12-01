@@ -30,7 +30,7 @@ project, so don't be afraid to ask.
 
 ## Timeline
 
-### 21 Sep: Project chosen (10%)
+### 18 Jan: Project chosen (10%)
 
 Free marks for choosing your project.  
 
@@ -67,7 +67,7 @@ get this done.
 [Lab Project Ideas](LabProjIdeas/)
 
 
-### 19 Oct: Written Introduction draft submitted (10%)
+### 8 Feb: Written Introduction draft submitted (10%)
 
 Your final report of your work will have a short introduction, 5-6 pages,
 not including figures, double spaced 12pt font. It does not depend on
@@ -84,14 +84,14 @@ place in the literature, and have made yourself familiar with some of
 the previous knowledge about how it is going to work.  For your
 literature review [Google Scholar](http://scholar.google.com) is often very helpful.
 
-### 30 Nov, 2 Dec: Class presentations (20%)
+### 7 Mar: Class presentations (20%)
 
 Two class periods are set aside for you to give a 15 minute talk on
 your project to the rest of the class.  Make sure to briefly explain
 the background and theory, and then to present your results as clearly
 as possible.  
 
-### 9 Dec: Final project due (60%) 
+### 24 Mar: Final project due (60%) 
 
 The final project is due at this time. It consists of your
 introduction, your experimental setup, your results, and any
