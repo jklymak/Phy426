@@ -38,9 +38,10 @@ You should choose to examine a phenomena in some detail, preferably
 with as quantitative measurements as possible, and through some
 fraction of parameter space.  A list of possible ideas are given
 below.  You could also check out
-[[http://en.wikipedia.org/wiki/An_Album_of_Fluid_Motion][An Album of Fluid Motion]], which I can lend you, or various online
+[An Album of Fluid Motion](http://en.wikipedia.org/wiki/An_Album_of_Fluid_Motion) 
+which I can lend you, or various online
 versions of the same.  The
-[[http://www.annualreviews.org/journal/fluid][Annual Review of Fluid Mechanics]] often has excellent review articles
+[Annual Review of Fluid Mechanics](http://www.annualreviews.org/journal/fluid) often has excellent review articles
 that could inspire an idea.  
 
 #### Fallback project
@@ -52,9 +53,9 @@ a few other ideas in mind!
 #### To submit:
 
 Submit, by email, a 1-page PDF describing  
-  - your primary experimental phenomena
-  - what equipment is required
-  - what your experimental procedure will be
+    - your primary experimental phenomena
+    - what equipment is required
+    - what your experimental procedure will be
 Include contingency plans for the above.  Also very briefly outline a
 Fallback project in case your first choice is completely infeasible.  
 
@@ -63,7 +64,7 @@ not whether it is "right" or not.  So don't be shy about proposing
 something interesting.  Mostly the grade is just to encourage you to
 get this done.  
 
-[[LabProjIdeas][Lab Project Ideas]]
+[Lab Project Ideas](LabProjIdeas)
 
 
 ### 19 Oct: Written Introduction draft submitted (10%)
@@ -110,12 +111,14 @@ much or b) you need to cut to the chase in your discussion.
 ##### 7 Procedures 
    - Explains in enough detail that it could be reproduced what you
      did to make your experiment work.  Diagrams are helpful. 
+
 ##### 13 Results and analysis
    - Shows the results as completely as practical.  
    - Summarize results in terms of non-dimensional parameters if you
      can.
    - This grade includes how good your presentation is, so spend some
      effort making this clear and looking good.
+
 ##### 10 Conclusions and Discussion
    - Summarize what you learned.  Make sure you know the difference
      between "Results" or "Conclusions" and "Discussion".  If you
