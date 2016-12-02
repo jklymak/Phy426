@@ -63,15 +63,14 @@ with appropriate documentation as per [UVic's regulations](http://www.uvic.ca/re
 
 
 ## Mailing list
-<!---
+
 Please feel free to contact me through the mailing lists:
 
-[201509-phys411-12691@lists.uvic.ca](mailto:201509-phys411-12691@lists.uvic.ca)
+[201701-phys426-22537@lists.uvic.ca](mailto:201701-phys426-22537@lists.uvic.ca)
 
 To manage your list, have a look at the appropriate page:
 
-[https://lists.uvic.ca/mailman/listinfo/201509-phys411-12691](https://lists.uvic.ca/mailman/listinfo/201509-phys411-12691)
+[https://lists.uvic.ca/mailman/listinfo/201701-phys426-22537]( https://lists.uvic.ca/mailman/listinfo/201701-phys426-22537)
 
 Questions that will benefit all your classmates are very welcome on
 the list. 
---->
