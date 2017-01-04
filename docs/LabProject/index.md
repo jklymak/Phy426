@@ -124,7 +124,7 @@ much or b) you need to cut to the chase in your discussion.
      between "Results" or "Conclusions" and "Discussion".  If you
      proved x depends on y, that is a conclusion.  If you suspect x
      depends on y, that is Discussion
-   - Discuss unknowns in your results, and try to discyss what you
+   - Discuss unknowns in your results, and try to discuss what you
      would do next time to improve or build in your experiment.
 
 
