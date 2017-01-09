@@ -57,7 +57,7 @@ with appropriate documentation as per [UVic's regulations](http://www.uvic.ca/re
 
   To be posted....
 
-  - [Assignment 1](./Assignments/Assignment1.pdf)
+  - [Assignment 1: Due 3 Feb, 11:30 AM](./Assignments/Assignment1.pdf)
   - [Assignment 2]()
   - [Assignment 3]()
   - [Assignment 4]()
