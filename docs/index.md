@@ -28,12 +28,13 @@ Spring 2016
 
 ## Lectures
 
-<!---
+<!--
   - [Lectures on github](https://github.com/jklymak/Phy411/tree/master/lectures/)  You can read the lectures here, but the rendering of math is broken (Sep 2015) so, suggest:
   - [Lectures on nbviewer (faster)](http://nbviewer.ipython.org/github/jklymak/Phy411/tree/master/lectures/)
   - [Assignments](https://github.com/jklymak/Phy411/tree/master/release/)
 --->
-<!---
+
+<!--
   - [Keys](https://github.com/jklymak/Phy411/tree/master/keys/)
 --->
 
@@ -56,7 +57,7 @@ with appropriate documentation as per [UVic's regulations](http://www.uvic.ca/re
 
   To be posted....
 
-  - [Assignment 1]()
+  - [Assignment 1](./Assignments/Assignment1.pdf)
   - [Assignment 2]()
   - [Assignment 3]()
   - [Assignment 4]()
