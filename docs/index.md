@@ -26,19 +26,9 @@ Spring 2016
   - Gain experience in written and spoken presentation
   
 
-## Lectures
+## Schedule
 
-<!--
-  - [Lectures on github](https://github.com/jklymak/Phy411/tree/master/lectures/)  You can read the lectures here, but the rendering of math is broken (Sep 2015) so, suggest:
-  - [Lectures on nbviewer (faster)](http://nbviewer.ipython.org/github/jklymak/Phy411/tree/master/lectures/)
-  - [Assignments](https://github.com/jklymak/Phy411/tree/master/release/)
---->
-
-<!--
-  - [Keys](https://github.com/jklymak/Phy411/tree/master/keys/)
---->
-
-<iframe width="600px" height="400px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZ2Tmi8zGX8pCgSrf4jDAN--9LXhwSyRjWPwHj0FItENDdJViT87eE4DAOwWnYEGovikh0_GRfHFvP/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width="600px" height="400px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZ2Tmi8zGX8pCgSrf4jDAN--9LXhwSyRjWPwHj0FItENDdJViT87eE4DAOwWnYEGovikh0_GRfHFvP/pubhtml?gid=0&amp;range=A1:C40;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 ## [Texts](./Texts/)
 
