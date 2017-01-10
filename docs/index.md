@@ -62,6 +62,9 @@ with appropriate documentation as per [UVic's regulations](http://www.uvic.ca/re
   - [Assignment 3]()
   - [Assignment 4]()
 
+## Course Evaluation Survey
+
+These are filled out online at [ces.uvic.ca](http://ces.uvic.ca).  There should be a link to this course on your dashboard.
 
 ## Mailing list
 
