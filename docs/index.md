@@ -14,7 +14,7 @@ Spring 2016
   - Instructor: [Jody Klymak](http://web.uvic.ca/~jklymak)
   - Office: [Bob Wright Centre](http://www.uvic.ca/buildings/sci.html) A313
   - Tel: (250)-472-5969; Email: [jklymak@uvic.ca](mailto:jklymak@uvic.ca)
-  - Office Hours: Tue 14:30-15:30 or by appointment 
+  - Office Hours: Tue 14:30-15:30 or by appointment
   - Meeting time:  TWF 11:30-12:20
   - Location:  [Ell 161](http://www.uvic.ca/home/about/campus-info/maps/maps/ell.php)
 
@@ -24,11 +24,11 @@ Spring 2016
   - Apply conservation laws to theoretical and practical problems
   - Gain experience with laboratory methods
   - Gain experience in written and spoken presentation
-  
+
 
 ## Schedule
 
-<iframe width="600px" height="400px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZ2Tmi8zGX8pCgSrf4jDAN--9LXhwSyRjWPwHj0FItENDdJViT87eE4DAOwWnYEGovikh0_GRfHFvP/pubhtml?gid=0&amp;range=A1:C40;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width="600px" height="400px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZ2Tmi8zGX8pCgSrf4jDAN--9LXhwSyRjWPwHj0FItENDdJViT87eE4DAOwWnYEGovikh0_GRfHFvP/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 ## [Texts](./Texts/)
 
@@ -67,4 +67,4 @@ To manage your list, have a look at the appropriate page:
 [https://lists.uvic.ca/mailman/listinfo/201701-phys426-22537]( https://lists.uvic.ca/mailman/listinfo/201701-phys426-22537)
 
 Questions that will benefit all your classmates are very welcome on
-the list. 
+the list.
