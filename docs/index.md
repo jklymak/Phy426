@@ -47,7 +47,7 @@ with appropriate documentation as per [UVic's regulations](http://www.uvic.ca/re
 
   - [Assignment 1: Due 3 Feb, 11:30 AM](./Assignments/Assignment1.pdf)    [Key](./Assignments/Assignment1Key.pdf)
   - [Assignment 2: Due 22 Feb, 11:30 AM](./Assignments/Assignment2.pdf)   [Key](./Assignments/Assignment2Key.pdf)
-  - [Assignment 3: Due 15 Mar, 11:30 AM](./Assignments/Assignment3.pdf)
+  - [Assignment 3: Due 15 Mar, 11:30 AM](./Assignments/Assignment3.pdf)    [Key](./Assignments/Assignment3Key.pdf)
   - [Assignment 4: Due 4 Apr, 11:30 AM](./Assignments/Assignment4.pdf)
 
 ## Course Evaluation Survey
