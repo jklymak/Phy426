@@ -50,6 +50,10 @@ with appropriate documentation as per [UVic's regulations](http://www.uvic.ca/re
   - [Assignment 3: Due 15 Mar, 11:30 AM](./Assignments/Assignment3.pdf)    [Key](./Assignments/Assignment3Key.pdf)
   - [Assignment 4: Due 4 Apr, 11:30 AM](./Assignments/Assignment4.pdf)
 
+## Take Home final:
+
+- [Take Home Final: Due 11 Apr, 10:00 AM](./Assignments/TakeHome17.pdf)
+
 ## Course Evaluation Survey
 
 These are filled out online at [ces.uvic.ca](http://ces.uvic.ca).  There should be a link to this course on your dashboard.
