@@ -43,7 +43,7 @@ with appropriate documentation as per [UVic's regulations](http://www.uvic.ca/re
 
 ## [Laboratory Project](./LabProject/)
 
-## Assignments
+## Assignments (LAST YEARS:  May change 2018)
 
   - [Assignment 1: Due 3 Feb, 11:30 AM](./Assignments/Assignment1.pdf)    
   - [Assignment 2: Due 22 Feb, 11:30 AM](./Assignments/Assignment2.pdf)   
