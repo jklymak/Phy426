@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reading Week 01; Equation of State, Pressure, Hydrostatics, Kinematics
+title: Reading Week 01; Equation of State, Pressure, Hydrostatics
 ---
 
 ## Reading:  
@@ -29,7 +29,7 @@ title: Reading Week 01; Equation of State, Pressure, Hydrostatics, Kinematics
 
 ## Q4: Kinematics: How does "advection" change the Eulerian perception of a quantity?
 
-     Suppose the concentration of Caffeine in a river is measured to be 100 g/m^3
-     at one station, and 150 g/m^3 at a station 100 km upstream.  if the river is
-     flowing downstream at 1 m/s, what do you think the concentration will be at the
-     downstream station three hours later?  
+    Suppose the concentration of Caffeine in a river is measured to be 100 g/m^3
+    at one station, and 150 g/m^3 at a station 100 km upstream.  if the river is
+    flowing downstream at 1 m/s, what do you think the concentration will be
+    at the downstream station three hours later?  

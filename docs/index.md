@@ -36,7 +36,7 @@ Largely [Kundu and Cohen](http://app.knovel.com/web/toc.v/cid:kpFME00004/viewerT
 
 ## Course grading
 
-5% Readings/Class Participation; 30% [Assignments](#Assignments); 35% [Laboratory Project](./LabProject/); 30% Final Exam
+5% [Readings](./Readings/)/Class Participation; 30% [Assignments](#Assignments); 35% [Laboratory Project](./LabProject/); 30% Final Exam
 
 Late work penalized as 10% per day, max 5 days.  Academic concessions will be granted
 with appropriate documentation as per [UVic's regulations](http://www.uvic.ca/registrar/students/policies/appeals/rac-request.php).

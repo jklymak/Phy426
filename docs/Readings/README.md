@@ -8,9 +8,9 @@ The class will do a number of weekly readings.  They will be handed in
 by committing onto GitHub, and I'll check them periodically to make sure
 you are doing them/keeping up w/ material.
 
-In order for me to grade these, you will have to edit the files in this
-repository and "commit" them.  This shouldn't be too hard, but will
-require a bit of work to set up.  
+  - [Week 01; Equation of State, Pressure, Hydrostatics](./Week01)
+  - [Week 02; Kinematics](./Week02)
+  -
 
 ## Step 1: Sign up for github account.
 
