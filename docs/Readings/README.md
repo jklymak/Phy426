@@ -1,4 +1,8 @@
-# Phy426 Readings 2018
+---
+layout: page
+title: Readings
+---
+
 
 The class will do a number of weekly readings.  They will be handed in
 by committing onto GitHub, and I'll check them periodically to make sure
