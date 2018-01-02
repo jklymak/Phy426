@@ -8,7 +8,7 @@ The class will do a number of weekly readings.  They will be handed in
 by committing onto GitHub, and I'll check them periodically to make sure
 you are doing them/keeping up w/ material.
 
-  - [Week 01; Equation of State, Pressure, Hydrostatics](./Week01)
+  - [Week 01; Equation of State, Pressure, Hydrostatics](./Week01.html)
   - [Week 02; Kinematics](./Week02)
   -
 
