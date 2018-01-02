@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reading Week 01; Equation of State, Pressure, Hydrostatics
+title: Reading Week 01 Equation of State, Pressure, Hydrostatics
 ---
 
 ## Reading:  
