@@ -9,8 +9,7 @@ by committing onto GitHub, and I'll check them periodically to make sure
 you are doing them/keeping up w/ material.
 
   - [Week 01; Equation of State, Pressure, Hydrostatics](./Week01/)
-  - [Week 02; Kinematics](./Week02)
-  -
+  - [Week 02; Conservation Laws](./Week02/)
 
 ## Step 1: Sign up for github account.
 
