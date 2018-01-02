@@ -11,12 +11,16 @@ you are doing them/keeping up w/ material.
   - [Week 01; Equation of State, Pressure, Hydrostatics](./Week01/)
   - [Week 02; Conservation Laws](./Week02/)
 
-## Step 1: Sign up for github account.
+
+## Submitting readings:
+
+
+### Step 1: Sign up for github account.
 
 If you don't already have a [github](https://github.com) account, sign up
 for one.  
 
-## Step 2: Get a git client for your machine
+### Step 2: Get a git client for your machine
 
 Git is the software that does version control.  It allows you to work
 with "git repositories" and save "commits" of your work.  These repositories
@@ -26,109 +30,39 @@ I can't really help you with getting a git client for your machine, but
 `git` clients are extremely easy to look
 up online for any architecture.  On a mac I do `brew install git`.  
 
-I  exclusively use a command-line client. You can also use a
+I exclusively use a command-line client. You can also use a
 [GUI git client](https://git-scm.com/downloads/guis/).  
 
-## Step 3: Clone this repository onto your local machine
+### Step 3: Make a new repository and clone it on your machine.
 
-See the instructions [here](https://help.github.com/articles/cloning-a-repository/)
+Use the "Plus" sign in the upper right, and create a new repository.  Name it
+something like "Phy426". Follow the
+[instructions here](https://help.github.com/articles/cloning-a-repository/)
+to clone the new repository on your machine.
 
-But basically, you get an address for this repository from the green "Clone
-or Download" button, and then:
+### Step 4: Upload your answers!
 
-```
-git clone https://github.com/jklymak/Phy426Readings2018.git
-```
+Your answers can be PDFs, png/gif, or text files
+([Markdown](https://guides.github.com/features/mastering-markdown/) is great
+because it can accept math).  PNG/gif are better for sketeches (legible
+camera uploads are fine.)  
 
-This will save the directory `Phy426Readings/` into your local directory.  
+Put the file in your `Phy426/` directory.  To upload:
 
-Currently this looks like:
+  1. `git add Phy426/Week01.md`
+  2. `git commit -a -m "Week01"`
+  3. `git push`
 
-```
-ls
-README.md  Week01.md  Week02.md
-```
-This should also have created a remote repository on github for you (you
-will likely have been asked for your password etc) at
-`https://github.com/YOURNAME/Phy426Readings2018`
-
-## Step 4: Answer the questions in `Week01.md`
-
-Use a text editor to answer the questions in `Week01.md`.
-
-## Step 5: Commit your work
-
-At any stage, commit your work:
+*Please* label so I can tell what week you are responding to.  If you prefer,
+you can add subdirectories:
 
 ```
-git commit -a -m "Edits to Week01.md"
+Phy426/Week01/Boo.txt
+Phy426/Week02/Pic.jpg
+...
 ```
 
-You can see your commits by doing:
+### Step 5: Share the link to your project:
 
-```
-git log
-
-commit 973467ec661dbcf07b4d94cc600eae012f9cb1ed (HEAD -> master, origin/master, origin/HEAD)
-Author: Jody Klymak <jklymak@gmail.com>
-Date:   Fri Dec 15 15:33:21 2017 -0800
-
-    Initial commit
-```
-
-## Step 6: Push your commit up to github
-
-If you are done committing, you can push:
-
-```
-git push origin master
-```
-
-Will push any commits you've made up to your copy of the assignments.  You
-can check github that they have been changed by going to:
-`https://github.com/YOURNAME/Phy426Readings2018`
-
-# More advanced stuff
-
-I will more than likely change/update the readings.  This gets a little
-tricky, but is easy to deal with if I only update readings you haven't
-made commits on (so I'll try and stay far ahead).  If this happens,
-you will have to
-[add an upstream remote](https://help.github.com/articles/configuring-a-remote-for-a-fork/)
-
-```
-git remote add upstream https://github.com/jklymak/Phy426Readings2018
-```
-
-Now if you do:
-
-```
-$git remote -v
-
-origin	https://github.com/YOURUSERNAME/Phy426Readings2018.git (fetch)
-origin	https://github.com/YOURUSERNAME/Phy426Readings2018.git (push)
-upstream	https://github.com/jklymak/Phy426Readings2018.git (fetch)
-upstream	https://github.com/jklymak/Phy426Readings2018.git (push)
-```
-
-To get my changes onto your local machine:
-
-```
-git fetch upstream master
-```
-
-To make your version the same as my version, modulo any changes you
-have made: ([See this link as well](https://www.atlassian.com/git/articles/git-forks-and-upstreams))
-
-```
-git rebase upstream/master
-```
-
-This *should* just work.  If there are conflicts, it means that you and I
-both edited a file since you last "rebased". You can attempt to resolve the
-conflict, but this proceedure is a [bit arcane](https://help.github.com/articles/resolving-a-merge-conflict-using-the-command-line/)
-
-```
-git rebase --abort
-```
-and contact me.  If it happens a lot, we will come up w/ a solution.
+Send me the link to the project.  No need to send me an email everytime you
+upload something.  I'll check periodically that you are doing the work.
