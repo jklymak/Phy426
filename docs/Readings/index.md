@@ -10,6 +10,7 @@ you are doing them/keeping up w/ material.
 
   - [Week 01; Equation of State, Pressure, Hydrostatics](./Week01/)
   - [Week 02; Conservation Laws](./Week02/)
+  - [Week 03; Conservation of Vorticity](./Week03/)
 
 
 ## Submitting readings:
