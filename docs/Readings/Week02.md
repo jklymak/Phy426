@@ -38,7 +38,7 @@ steady (in time); again assume *no friction*:
   - Assuming there is no friction, what forces are in the fluid that acto to
   change the flow speed?
 
-## Q3:  Flow around a cylander
+## Q3:  Flow around a cylinder
 
 Now imagine a very wide channel and a small cylinder placed in the flow so
 that it looks like a circle from above; again assume steady flow and no
