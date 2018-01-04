@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reading Week 03; Vorticity
+title: Reading Week 03 Vorticity
 ---
 
 ## Reading:  
@@ -13,4 +13,4 @@ title: Reading Week 03; Vorticity
 Solid-body rotation is what we learned about in high-school.  What is the
 relationship between $\omega$ and the rate of angular rotation $d\theta/dt$?
 
-### 
+###
