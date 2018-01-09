@@ -3,9 +3,9 @@ layout: page
 title: Texts
 ---
 
-The main course text is [Kundhu and Cohen](http://app.knovel.com/web/toc.v/cid:kpFME00004/viewerType:toc/root_slug:fluid-mechanics-4th), 4th edition, 2007.  Older
+The main course text is Kundhu and Cohen, latest edition, available at the bookstore.  Older
 and newer versions should be fine, but you'll have to dig a bit if equation
-numbers have changed etc. Note that it is available online via the UVic Library.
+numbers have changed etc. 
 
 Kundhu and Cohen is good, but falls into the overly-abstract and
 mathematical style of physics textbook. Don't let this discourage you
@@ -22,4 +22,3 @@ examples and see if your intuition is correct.
     school (on course reserve)
   - Lamb, *Hydrodynamics*, 1867, is a tough read, but a classic.  (on course
     reserve and [online](http://www.archive.org/details/hydrodynamics00lambuoft/).)
-

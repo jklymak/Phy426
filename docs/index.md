@@ -32,7 +32,7 @@ Spring 2016
 
 ## [Texts](./Texts/)
 
-Largely [Kundu and Cohen](http://app.knovel.com/web/toc.v/cid:kpFME00004/viewerType:toc/root_slug:fluid-mechanics-4th), 4th edition, but also see [Texts](./Texts/).  
+Largely *Kundu and Cohen* Latest edition, but also see [Texts](./Texts/).  
 
 ## Course grading
 
