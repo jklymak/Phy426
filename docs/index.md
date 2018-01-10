@@ -14,7 +14,7 @@ Spring 2016
   - Instructor: [Jody Klymak](http://web.uvic.ca/~jklymak)
   - Office: [Bob Wright Centre](http://www.uvic.ca/buildings/sci.html) A313
   - Tel: (250)-472-5969; Email: [jklymak@uvic.ca](mailto:jklymak@uvic.ca)
-  - Office Hours: Tue 14:30-15:30 or by appointment
+  - Office Hours: Wed 14:30-15:30 or by appointment
   - Meeting time:  TWF 11:30-12:20
   - Location:  [Ell 161](http://www.uvic.ca/home/about/campus-info/maps/maps/ell.php)
 
