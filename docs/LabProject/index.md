@@ -22,7 +22,7 @@ The third goal is to practice presenting your research, both orally,
 and in written form.  
 
 In order to encourage you to not procrastinate, and make rapid
-progress, there are milestones to be completed. 
+progress, there are milestones to be completed.
 
 Both Nik and I are available for discussion at anytime about your
 project, so don't be afraid to ask.  
@@ -30,7 +30,7 @@ project, so don't be afraid to ask.
 
 ## Timeline
 
-### 18 Jan: Project chosen (10%)
+### 17 Jan: Project chosen (10%)
 
 Free marks for choosing your project.  
 
@@ -38,7 +38,7 @@ You should choose to examine a phenomena in some detail, preferably
 with as quantitative measurements as possible, and through some
 fraction of parameter space.  A list of possible ideas are given
 below.  You could also check out
-[An Album of Fluid Motion](http://en.wikipedia.org/wiki/An_Album_of_Fluid_Motion) 
+[An Album of Fluid Motion](http://en.wikipedia.org/wiki/An_Album_of_Fluid_Motion)
 which I can lend you, or various online
 versions of the same.  The
 [Annual Review of Fluid Mechanics](http://www.annualreviews.org/journal/fluid) often has excellent review articles
@@ -67,9 +67,9 @@ get this done.
 [Lab Project Ideas](LabProjIdeas/)
 
 
-### 8 Feb: Written Introduction draft submitted (10%)
+### 7 Feb: Written Introduction draft submitted (10%)
 
-Your final report of your work will have a short introduction, 5-6 pages,
+Your final report of your work will have a short introduction, 3-4 pages,
 not including figures, double spaced 12pt font. It does not depend on
 your lab experiment results, so this milestone is to encourage you to
 draft it ahead of time.  
@@ -84,14 +84,14 @@ place in the literature, and have made yourself familiar with some of
 the previous knowledge about how it is going to work.  For your
 literature review [Google Scholar](http://scholar.google.com) is often very helpful.
 
-### 7 Mar: Class presentations (20%)
+### 6-9 Mar: Class presentations (20%)
 
 Two class periods are set aside for you to give a 15 minute talk on
 your project to the rest of the class.  Make sure to briefly explain
 the background and theory, and then to present your results as clearly
 as possible.  
 
-### 24 Mar: Final project due (60%) 
+### 27 Mar: Final project due (60%)
 
 The final project is due at this time. It consists of your
 introduction, your experimental setup, your results, and any
@@ -108,9 +108,9 @@ much or b) you need to cut to the chase in your discussion.
    - outlines the major non-dimensional numbers controlling the flow,
      and explains where in that parameter space you will be operating
 
-##### 7 Procedures 
+##### 7 Procedures
    - Explains in enough detail that it could be reproduced what you
-     did to make your experiment work.  Diagrams are helpful. 
+     did to make your experiment work.  Diagrams are helpful.
 
 ##### 13 Results and analysis
    - Shows the results as completely as practical.  
@@ -153,5 +153,3 @@ per week during term.  You will probably want to have a concentrated
 burst of activity while running your experiment. Please make sure you
 have scheduled lab time with Nik to avoid conflicts with other lab
 users.  
-
-
