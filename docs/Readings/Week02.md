@@ -35,7 +35,7 @@ steady (in time); again assume *no friction*:
   you choose these paths?
   - if you sketched your dye streaks properly, what do you thinks is conserved
   between them?  
-  - Assuming there is no friction, what forces are in the fluid that acto to
+  - Assuming there is no friction, what forces are in the fluid that act to
   change the flow speed?
 
 ## Q3:  Flow around a cylinder
