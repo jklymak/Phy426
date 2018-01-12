@@ -43,12 +43,16 @@ with appropriate documentation as per [UVic's regulations](http://www.uvic.ca/re
 
 ## [Laboratory Project](./LabProject/)
 
+## Assignments
+
+  - [Assignment 1: Due 2 Feb 2018, 11:30 AM](./Assignments/Assignment1.pdf)    
+
 ## Assignments (LAST YEARS:  May change 2018)
 
-  - [Assignment 1: Due 3 Feb, 11:30 AM](./Assignments/Assignment1.pdf)    
-  - [Assignment 2: Due 22 Feb, 11:30 AM](./Assignments/Assignment2.pdf)   
-  - [Assignment 3: Due 15 Mar, 11:30 AM](./Assignments/Assignment3.pdf)    
-  - [Assignment 4: Due 4 Apr, 11:30 AM](./Assignments/Assignment4.pdf)     
+    - [Assignment 2: Due 23 Feb, 11:30 AM](./Assignments/Assignment2.pdf)   
+    - [Assignment 3: Due 14 Mar, 11:30 AM](./Assignments/Assignment3.pdf)    
+    - [Assignment 4: Due 3 Apr, 11:30 AM](./Assignments/Assignment4.pdf)     
+
 
 {% comment %}
 [Key](./Assignments/Assignment1Key.pdf)
