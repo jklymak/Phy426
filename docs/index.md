@@ -48,7 +48,7 @@ with appropriate documentation as per [UVic's regulations](http://www.uvic.ca/re
   - [Assignment 1: Due 2 Feb 2018, 11:30 AM](./Assignments/Assignment1.pdf)
     - [Assignment 1 Key](./Assignments/Assignment1Key.pdf)
   - [Assignment 2: Due 25 Feb, 11:30 AM](./Assignments/Assignment2.pdf)   
-    - [Assignment 2 Key](./Assignments/Assignment2Key.pdf)
+    - [Assignment 2 Key](./Assignments/Assignment2Key.html)
 
 ## Assignments (LAST YEARS:  May change 2018)
 
