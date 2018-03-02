@@ -49,6 +49,7 @@ with appropriate documentation as per [UVic's regulations](http://www.uvic.ca/re
     - [Assignment 1 Key](./Assignments/Assignment1Key.pdf)
   - [Assignment 2: Due 25 Feb, 11:30 AM](./Assignments/Assignment2.pdf)   
     - [Assignment 2 Key](./Assignments/Assignment2Key.html)
+  - [Assignment 3: Due 3 Apr, 11:30 AM](./Assignments/Assignment3.pdf)    
 
 ## Assignments (LAST YEARS:  May change 2018)
 
