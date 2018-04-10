@@ -50,11 +50,8 @@ with appropriate documentation as per [UVic's regulations](http://www.uvic.ca/re
   - [Assignment 2: Due 25 Feb, 11:30 AM](./Assignments/Assignment2.pdf)   
     - [Assignment 2 Key](./Assignments/Assignment2Key.html)
   - [Assignment 3: Due 3 Apr, 11:30 AM](./Assignments/Assignment3.pdf)    
-
-## Assignments (LAST YEARS:  May change 2018)
-
-  - [Assignment 3: Due 14 Mar, 11:30 AM](./Assignments/Assignment3.pdf)    
-  - [Assignment 4: Due 3 Apr, 11:30 AM](./Assignments/Assignment4.pdf)     
+    - [Assignment 3 Key: Cylinders](./Assignments/LaplaceSolution.pdf)
+    - [Assignment 3 Key: Airfoil](./Assignments/AirfoilPS4.pdf)
 
 
 {% comment %}
