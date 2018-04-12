@@ -43,6 +43,7 @@ with appropriate documentation as per [UVic's regulations](http://www.uvic.ca/re
 
 ## [Laboratory Project](./LabProject/)
 
+{% comment %}
 ## Assignments
 
   - [Assignment 1: Due 2 Feb 2018, 11:30 AM](./Assignments/Assignment1.pdf)
@@ -52,6 +53,7 @@ with appropriate documentation as per [UVic's regulations](http://www.uvic.ca/re
   - [Assignment 3: Due 3 Apr, 11:30 AM](./Assignments/Assignment3.pdf)    
     - [Assignment 3 Key: Cylinders](./Assignments/LaplaceSolution.pdf)
     - [Assignment 3 Key: Airfoil](./Assignments/AirfoilPS4.pdf)
+{% endcomment %}
 
 
 {% comment %}
@@ -61,11 +63,9 @@ with appropriate documentation as per [UVic's regulations](http://www.uvic.ca/re
 [Key](./Assignments/Assignment4Foil.pdf)
 {% endcomment %}
 
-{% comment %}
 ## Take Home final:
 
-- [Take Home Final: Due 11 Apr, 10:00 AM](./Assignments/TakeHome2017.pdf)
-{% endcomment %}
+- [Take Home Final: Due 13 Apr, 17:00](./Assignments/TakeHome2018.pdf)
 
 ## Course Evaluation Survey
 
