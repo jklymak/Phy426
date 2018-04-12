@@ -65,7 +65,7 @@ with appropriate documentation as per [UVic's regulations](http://www.uvic.ca/re
 
 ## Take Home final:
 
-- [Take Home Final: Due 13 Apr, 17:00](./Assignments/TakeHome2018.pdf)
+- [Take Home Final: Due 13 Apr, 23:59](./Assignments/TakeHome2018.pdf)
 
 ## Course Evaluation Survey
 
