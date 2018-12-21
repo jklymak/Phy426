@@ -16,7 +16,7 @@ Spring 2019
   - Tel: (250)-472-5969; Email: [jklymak@uvic.ca](mailto:jklymak@uvic.ca)
   - Office Hours: Wed 14:30-15:30 or by appointment
   - Meeting time:  TWF 11:30-12:20
-  - Location:  [Ell 161](http://www.uvic.ca/home/about/campus-info/maps/maps/ell.php)
+  - Location:  [CLE A205](http://www.uvic.ca/home/about/campus-info/maps/maps/cle.php)
 
 ## Course Objectives ##
 
