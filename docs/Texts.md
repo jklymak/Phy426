@@ -3,9 +3,12 @@ layout: page
 title: Texts
 ---
 
-The main course text is Kundhu and Cohen, latest edition, available at the bookstore.  Older
-and newer versions should be fine, but you'll have to dig a bit if equation
-numbers have changed etc. 
+The main course text is Kundhu and Cohen, latest edition, available at the bookstore.  Older and newer versions should be fine, but you'll have to dig a bit if equation
+numbers have changed etc.
+
+Note that the 2008 edition is available online if you are on the UVic
+network or VPN at
+ http://ebookcentral.proquest.com/lib/uvic/detail.action?docID=534929
 
 Kundhu and Cohen is good, but falls into the overly-abstract and
 mathematical style of physics textbook. Don't let this discourage you
