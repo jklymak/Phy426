@@ -27,11 +27,16 @@ Spring 2019
 
 ## Schedule
 
-<iframe width="600px" height="400px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR7J7yu4NBO7ciH3RHrnsIfVau9djN1nIUci8pRak5ml6ZMXC2G2xf88FroSfNOnAmbVhZsWMhsxm6-/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width="600px" height="400px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT6BuNrUjOKRRiwplh9p3TX4ecI5SwN9LkvUOvJyPvg14gXseWBhSW7JvOespVyABOlLAKHI9AYz678/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 ## [Texts](./Texts/)
 
 Largely *Kundu and Cohen* Latest edition, but also see [Texts](./Texts/).  
+
+### Other resources
+
+  - [National Committee for Fluid Mechanics Films](http://web.mit.edu/hml/ncfmf.html) are still excellent 58 years later.
+  There are [written notes](http://web.mit.edu/hml/notes.html) as well.
 
 ## Course grading
 
