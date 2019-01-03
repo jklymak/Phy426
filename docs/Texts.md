@@ -10,11 +10,6 @@ Note that the 2008 edition is available online if you are on the UVic
 network or VPN at
  http://ebookcentral.proquest.com/lib/uvic/detail.action?docID=534929
 
-Kundhu and Cohen is good, but falls into the overly-abstract and
-mathematical style of physics textbook. Don't let this discourage you
-- in order to gain intuition, it is often useful to concoct simple
-examples and see if your intuition is correct.
-
 **Other texts**
 
   - Batchelor, *An Introduction to Fluid Dynamics*, 1967, is *the* classic
