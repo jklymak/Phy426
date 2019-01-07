@@ -14,8 +14,9 @@ Spring 2019
   - Instructor: [Jody Klymak](http://web.uvic.ca/~jklymak)
   - Office: [Bob Wright Centre](http://www.uvic.ca/buildings/sci.html) A313
   - Tel: (250)-472-5969; Email: [jklymak@uvic.ca](mailto:jklymak@uvic.ca)
-  - Office Hours: Wed 14:30-15:30 or by appointment
+  - Office Hours: TBD or by appointment
   - Meeting time:  TWF 11:30-12:20
+  - Lab time:  TBD
   - Location:  [BWC B121](http://www.uvic.ca/home/about/campus-info/maps/maps/sci.php)
 
 ## Course Objectives ##
@@ -40,7 +41,9 @@ Largely *Kundu and Cohen* Latest edition, but also see [Texts](./Texts/).
 
 ## Course grading
 
-5% [Readings](./Readings/)/Class Participation; 30% [Assignments](#Assignments); 35% [Laboratory Project](./LabProject/); 30% Final Exam
+  - 45% [Assignments](#Assignments);
+  - 35% [Laboratory Project](./LabProject/);
+  - 20% Take Home Exam
 
 Late work penalized as 10% per day, max 5 days.  Academic concessions will be granted
 with appropriate documentation as per [UVic's regulations](https://www.uvic.ca/registrar/students/appeals/acad-concession/index.php).
@@ -48,6 +51,7 @@ with appropriate documentation as per [UVic's regulations](https://www.uvic.ca/r
 ## [Laboratory Project](./LabProject/)
 
 ## Assignments
+  - [Assignment/Reading 1: 15 Jan 2018](./Assignemnts/Assignment1.html)
 {% comment %}
   - [Assignment 1: Due 2 Feb 2018, 11:30 AM](./Assignments/Assignment1.pdf)
   - [Assignment 2: Due 25 Feb, 11:30 AM](./Assignments/Assignment2.pdf)   
