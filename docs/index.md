@@ -51,7 +51,7 @@ with appropriate documentation as per [UVic's regulations](https://www.uvic.ca/r
 ## [Laboratory Project](./LabProject/)
 
 ## Assignments
-  - [Assignment/Reading 1: 15 Jan 2018](./Assignemnts/Assignment1.html)
+  - [Assignment/Reading 1: 15 Jan 2018](./Assignments/Assignment1.html)
 {% comment %}
   - [Assignment 1: Due 2 Feb 2018, 11:30 AM](./Assignments/Assignment1.pdf)
   - [Assignment 2: Due 25 Feb, 11:30 AM](./Assignments/Assignment2.pdf)   
