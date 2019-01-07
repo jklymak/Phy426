@@ -16,7 +16,7 @@ Spring 2019
   - Tel: (250)-472-5969; Email: [jklymak@uvic.ca](mailto:jklymak@uvic.ca)
   - Office Hours: Wed 14:30-15:30 or by appointment
   - Meeting time:  TWF 11:30-12:20
-  - Location:  [CLE A205](http://www.uvic.ca/home/about/campus-info/maps/maps/cle.php)
+  - Location:  [BWC B121](http://www.uvic.ca/home/about/campus-info/maps/maps/sci.php)
 
 ## Course Objectives ##
 
@@ -47,9 +47,8 @@ with appropriate documentation as per [UVic's regulations](https://www.uvic.ca/r
 
 ## [Laboratory Project](./LabProject/)
 
-{% comment %}
 ## Assignments
-
+{% comment %}
   - [Assignment 1: Due 2 Feb 2018, 11:30 AM](./Assignments/Assignment1.pdf)
   - [Assignment 2: Due 25 Feb, 11:30 AM](./Assignments/Assignment2.pdf)   
   - [Assignment 3: Due 3 Apr, 11:30 AM](./Assignments/Assignment3.pdf)    
@@ -78,15 +77,11 @@ These are filled out online at [ces.uvic.ca](http://ces.uvic.ca).  There should 
 
 Please feel free to contact me through the mailing lists:
 
-{% comment %}
-[201801-phys426-22462@lists.uvic.ca](mailto:201801-phys426-22462@lists.uvic.ca)
-{% endcomment %}
+[201901-phys426-22494@lists.uvic.ca](mailto:201901-phys426-22494@lists.uvic.ca)
 
 To manage your list, have a look at the appropriate page:
 
-{% comment %}
-[https://lists.uvic.ca/mailman/listinfo/201801-phys426-22462]( https://lists.uvic.ca/mailman/listinfo/201801-phys426-22462)
-{% endcomment %}
+[https://lists.uvic.ca/mailman/listinfo/201901-phys426-22494](  https://lists.uvic.ca/mailman/listinfo/201901-phys426-22494)
 
 Questions that will benefit all your classmates are very welcome on
-the list.
+the list, i.e. about homework, etc.  
