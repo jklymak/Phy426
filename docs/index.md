@@ -41,7 +41,8 @@ Largely *Kundu and Cohen* Latest edition, but also see [Texts](./Texts/).
 
 ## Course grading
 
-  - 45% [Assignments](#Assignments);
+  - 5%  Weekly readings (in the Assignments).
+  - 40% [Assignments](#Assignments);
   - 35% [Laboratory Project](./LabProject/);
   - 20% Take Home Exam
 
@@ -52,6 +53,7 @@ with appropriate documentation as per [UVic's regulations](https://www.uvic.ca/r
 
 ## Assignments
   - [Assignment/Reading 1: 15 Jan 2018](./Assignments/Assignment1/)
+  - [Assignment/Reading 2: 22 Jan 2018](./Assignments/Assignment2/)
 {% comment %}
   - [Assignment 1: Due 2 Feb 2018, 11:30 AM](./Assignments/Assignment1.pdf)
   - [Assignment 2: Due 25 Feb, 11:30 AM](./Assignments/Assignment2.pdf)   
