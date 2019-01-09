@@ -54,7 +54,21 @@ friction:
 
 ## Assignment (graded)
 
-### A1: Tilting block (/10)
+ - Buoyancy and pressure
+
+### A1: Pressure in u-tube (not YouTube) (/5)
+
+![U-Tube](../figs/Assignment2UTube.png)
+
+Consider a tube bent in the shape of a squared-off "u".  The water is 10 cm higher in the left side of the tube than the right side of the tube.  
+
+ - What is the pressure difference at the bottom of the "u"?
+ - What direction will water flow due to this pressure difference?
+ - Does it matter how wide each vertical pipe in the "u" is?  Why or why not?
+ - What is the pressure difference is left hand pipe is inclined at a 45 degree
+   angle?  
+
+### A2: Tilting block (/10)
 
 Consider a block of density $\rho$, with vertical height $L$, and widths in  
 the other two directions of $d$ floating on top of a fluid of density $\rho_o$.
