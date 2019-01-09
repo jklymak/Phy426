@@ -28,8 +28,8 @@ from week 2/3 about energy equations...)
 
  - Kiniematics
  - Conservation of mass
- 
-### A1: Streamlines in a corner flow (/10)
+
+### A1: Streamlines in a corner flow (/15)
 
 The flow in a 90-degree bend at the origin can be described by
 
@@ -39,9 +39,19 @@ $$v = x$$
 
   - Derive and sketch the streamlines $\psi$ of the flow.
   - Contour the streamfunction on a computer
-  - Demonstrate analytically that the the flow is non-divergent.
+    - where in the flow would you put the walls to make this the flow in a corner?
+  - Demonstrate analytically that the the flow is non-divergent (i.e. that the
+    sum of the linear strain rates is zero)
   - Demonstrate that it is close to non-divergent in your computer code.  
-  - where in the flow would you put the walls to make this the flow in a corner?
+  - put two material lines that are initially perpendicular to each other somewhere in the flow and advect them forward in time enough to see some distortion.  Show that their distortion is proportional to the shear strain rate you would calculate analytically.  (For the advection, I used a 2-d interpolation in scipy, which is a little funky (see below))
+
+```python
+    import scipy.interpolate as sinterp
+    fu = sinterp.RectBivariateSpline(x, y, u.T)  # get the interpolant
+    lineU = fu(line0x, line0y, grid=False)   # do the interpolation
+```
+
+
 
 
 ### A2: Multiple density mixing vat (/5)
