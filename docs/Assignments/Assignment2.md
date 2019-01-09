@@ -39,7 +39,7 @@ steady (in time); again assume *no friction*:
   - Assuming there is no friction, what forces are in the fluid that act to
   change the flow speed?
 
-## R3:  Flow around a cylinder
+### R3:  Flow around a cylinder
 
 Now imagine a very wide channel and a small cylinder placed in the flow so
 that it looks like a circle from above; again assume steady flow and no
@@ -52,9 +52,9 @@ friction:
   necessary to pull it through the water?  
 
 
-## Assignment
+## Assignment (graded)
 
-### A1: Tilting block
+### A1: Tilting block (/10)
 
 Consider a block of density $\rho$, with vertical height $L$, and widths in  
 the other two directions of $d$ floating on top of a fluid of density $\rho_o$.
@@ -65,22 +65,3 @@ $$ \left( \frac{d}{L}\right)^2 > 6 \left(\frac{\rho}{\rho_o}\right)\left(1-\frac
 $$
 
 Some hints: Consider the torque about the centerline of the block at the water line.  I found this easiest to do by transforming the co-ordinate system so relative to the block so that the block is still vertical, but gravity and the water line are tilted, but either reference frame is fine.  Its best to consider two point sources, one pulling down at the center of mass and one pushing up at the center of buoyancy.  Please no results that depend on engineering formulas, unless you show the engineering formula.  
-
-### A2: Streamlines in a corner flow.  
-
-The flow in a 90-degree bend at the origin can be described by
-
-$$u = y$$
-
-$$v = x$$
-
-  - Derive and sketch the streamlines $\psi$ of the flow.
-  - Contour the streamfunction on a computer
-  - Demonstrate analytically that the the flow is non-divergent.
-  - Demonstrate that it is close to non-divergent in your computer code.  
-  - where in the flow would you put the walls to make this the flow in a corner?
-
-
-### A3: Multiple density mixing vat.
-
-Suppose we have a mixing vat, with one inflow at $q_1 = 2\ m^3\,s^{-1}$ and a fluid of density $\rho_1 = 1000\ kg\,m^{-3}$, and a second inflow with density $\rho_2 = 1030\ kg\,m^{-3}$, and an outflow with density $\rho_3 = 1028\ kg\,m^{-3}$.  What must the outflow rate be if the fluids are incompressible?
