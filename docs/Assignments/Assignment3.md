@@ -26,6 +26,9 @@ from week 2/3 about energy equations...)
 
 ## Assignment
 
+ - Kiniematics
+ - Conservation of mass
+ 
 ### A1: Streamlines in a corner flow (/10)
 
 The flow in a 90-degree bend at the origin can be described by

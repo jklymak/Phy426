@@ -42,7 +42,7 @@ Largely *Kundu and Cohen* Latest edition, but also see [Texts](./Texts/).
 ## Course grading
 
   - 5%  Weekly readings (in the Assignments).
-  - 40% [Assignments](#Assignments);
+  - 40% [Assignments](./Assignments/);
   - 35% [Laboratory Project](./LabProject/);
   - 20% Take Home Exam
 
@@ -50,14 +50,6 @@ Late work penalized as 10% per day, max 5 days.  Academic concessions will be gr
 with appropriate documentation as per [UVic's regulations](https://www.uvic.ca/registrar/students/appeals/acad-concession/index.php).
 
 ## [Laboratory Project](./LabProject/)
-
-## Assignments
-{% comment %}
-  - [Assignment 1: Due 2 Feb 2018, 11:30 AM](./Assignments/Assignment1.pdf)
-  - [Assignment 2: Due 25 Feb, 11:30 AM](./Assignments/Assignment2.pdf)   
-  - [Assignment 3: Due 3 Apr, 11:30 AM](./Assignments/Assignment3.pdf)    
-{% endcomment %}
-
 
 {% comment %}
 [Key](./Assignments/Assignment1Key.pdf)
