@@ -43,7 +43,7 @@ $$v = x$$
   - Demonstrate analytically that the the flow is non-divergent (i.e. that the
     sum of the linear strain rates is zero)
   - Demonstrate that it is close to non-divergent in your computer code.  
-  - put two material lines that are initially perpendicular to each other somewhere in the flow and advect them forward in time enough to see some distortion.  Show that their distortion is proportional to the shear strain rate you would calculate analytically.  (For the advection, I used a 2-d interpolation in scipy, which is a little funky (see below))
+  - put two material lines that are initially perpendicular to each other somewhere in the flow and advect them forward in time enough to see some distortion.  Show that the rate that the elements come together or spread apart is close to the shear strain rate you would calculate analytically.  (For the advection, I used a 2-d interpolation in scipy, which is a little funky (see below))
 
 ```python
     import scipy.interpolate as sinterp

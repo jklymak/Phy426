@@ -6,12 +6,28 @@ title: Assignment/Reading 4, Physics 426 Fluid Mechanics
 
 ## Reading (Participation only, very short answer)
 
+  - Ch 7, sections 11 to 13 non-linear steepening waves, hydrualic jumps, solitons.  
 
+
+### R1: Why do waves tend to steepen?  
+
+Waves tend to steepen: why and why is the effecy ggreater in shallow water?
+
+### R2: Jump condition
+
+What two quantities are conserved across a hydraulic jump?
+
+### R3: Solitary waves:
+
+What two wave tendencies are balanced in a soliton?
 
 ## Assignment
 
+ - Energy Conservation: Bernoulli Fcn
+ - Shallow Water Equations
+ - Hydraulic Control
 
-### A1: Conservation of momentum in hydraulically controlled flow
+### A1: Conservation of momentum in hydraulically controlled flow  (/20)
 
   Consider flow over an isolated obstacle in a channel, as in class.  Assume that the obstacle is a triangle, with height off a flat channel of $h_m = 10\ \mathrm{m}$, and that the triangle's ramp has a slope of 1/100.  Assume that the incoming two-d flow transport is a fixed $30\ \mathrm{m^2\,s^{-1}}$, that the flow is in steady state, and that the flow is controlled at the crest.
 
