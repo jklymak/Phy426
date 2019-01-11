@@ -34,9 +34,14 @@ Consider a *hydrostatic* wave being forced at the mouth of a rectangular fjord o
  - Derive an expression for the  the sea-surface height $\eta$ as a function of $x$ in the fjord assuming that there is no energy dissipation in the fjord.  Describe the response of sea-surface height at the head of the fjord as a function of the length of the fjord, $L$.  Also note that there are sometimes nulls in the response in the fjord.  Where are they?
  - What is the relationship between $u(x,t)$ and $\eta(x,t)$ in the fjord?  What happens to the velocity at the mouth as the fjord length approaches the resonant length?
 
-### A2: Numerical characteristics steepening wave
+### A2: Numerical characteristics steepening wave (/15)
 
-Consider a steepening wave by computing characteristics.  Suppose there is a
-quiescent region to the right of $x=0$ of thickness $d_0$ such that the shallow water wave speed there is $c=0.1 \ m/s$.  For $x<2.5\ m$ $c = 1 \ m/s$.  The wave speed varies linearly between these two points.  
+Consider a steepening wave by computing the flow and height fields by the method of characteristics.  
 
-We define $u$ such that the negative characteristic value is the same every where, i.e. $u(x, 0) = 2 (c(x, 0) - c(x>0, 0))$, so that the velocity is zero in the shallow region, and $1.8 \ m/s$ in the deep region, and linearly varying between the two regions.  
+Suppose there is a quiescent region to the right of $x=0$ of thickness $d_0$ such that the shallow water wave speed there is $c_0=0.1 \ m/s$.  For $x<2.5\ m$ $c = 1 \ m/s$.  The wave speed varies linearly between these two points.  
+
+We define $u$ such that the negative characteristic value is the same every where, i.e. $u(x, 0) = 2 (c(x, 0) - c_0)$, so that the velocity is zero in the shallow region, and $1.8 \ m/s$ in the deep region, and linearly varying between the two regions.  
+
+ - Numerically compute $u(x, t)$ and $c(x,t)$ by implementing the algorithm discussed in class and plot the results.  Based on these plots, at what time does a shock form?
+ - Numerically compute some positive and negative characteristics through this flow field and discuss how that leads to wave steepening.  Compare to the theoretical characteristic paths which all have a slope of
+ $$ 1/(3 c(x, 0) - 2 c_0) $$  Note that if you have a disagreement with the numerical curves, you may need to make your x or t grids smaller.
