@@ -3,10 +3,6 @@ layout: page
 title: Laboratory Project
 ---
 
-
-This will be updated, but here is how the project was described last time I taught the course:
-
-
 ## Goal
 
 The goal of this project is to get you into the lab and learning some
@@ -25,12 +21,12 @@ In order to encourage you to not procrastinate, and make rapid
 progress, there are milestones to be completed.
 
 Both Nik and I are available for discussion at anytime about your
-project, so don't be afraid to ask.  
+project; as below, there will be a formal meeting with both of us.   
 
 
 ## Timeline
 
-### 17 Jan: Project chosen (10%)
+### 22 Jan: Project chosen (10%)
 
 Free marks for choosing your project.  
 
@@ -43,6 +39,8 @@ which I can lend you, or various online
 versions of the same.  The
 [Annual Review of Fluid Mechanics](http://www.annualreviews.org/journal/fluid) often has excellent review articles
 that could inspire an idea.  
+
+[Lab Project Ideas](LabProjIdeas/)
 
 #### Fallback project
 
@@ -64,10 +62,9 @@ not whether it is "right" or not.  So don't be shy about proposing
 something interesting.  Mostly the grade is just to encourage you to
 get this done.  
 
-[Lab Project Ideas](LabProjIdeas/)
+### 8 Feb: Written Introduction draft submitted (10%)
 
-
-### 7 Feb: Written Introduction draft submitted (10%)
+ - also, you should have made an appojntment to talk to Nik and I (together) about your project.  This can be during the lab time.
 
 Your final report of your work will have a short introduction, 3-4 pages,
 not including figures, double spaced 12pt font. It does not depend on
@@ -84,19 +81,19 @@ place in the literature, and have made yourself familiar with some of
 the previous knowledge about how it is going to work.  For your
 literature review [Google Scholar](http://scholar.google.com) is often very helpful.
 
-### 6-9 Mar: Class presentations (20%)
+### 5-9 Mar: Class presentations (20%)
 
 Two class periods are set aside for you to give a 15 minute talk on
 your project to the rest of the class.  Make sure to briefly explain
 the background and theory, and then to present your results as clearly
 as possible.  
 
-### 27 Mar: Final project due (60%)
+### 29 Mar: Final project due (60%)
 
 The final project is due at this time. It consists of your
 introduction, your experimental setup, your results, and any
 discussion you might have.  A typical report would be on the order of
-12 pages, double spaced, not including figures, but shorter is fine if
+8-10 pages, double spaced, not including figures, but shorter is fine if
 you can get everything across.  Longer likely means a) you did too
 much or b) you need to cut to the chase in your discussion.
 
