@@ -6,8 +6,18 @@ title: Assignment/Reading 7, Physics 426 Fluid Mechanics
 
 ## Reading (Participation only, very short answer)
 
-  - Ch 6: Irrotational (Ideal Fluid) Flow
+  - Laminar viscous flow...
 
+### R1:  Reynolds number in laminar Flow
+
+Is the Reynold's number small or large in a viscous flow?  If the viscosity is
+molecular, what is the magnitude of $UL$ so that laminar flow is a good
+approximation?  
+
+### R2: Taylor-Couette Flow
+
+In these flows, one plate moves horizontally, dragging fluid with it, and hence
+exerting a stress on the fluid column and doing work on the flow.  In steady state what happens to that work (energy can't change)?
 
 ## Assignment
 
