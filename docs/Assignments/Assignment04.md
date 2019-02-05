@@ -11,7 +11,7 @@ title: Assignment/Reading 4, Physics 426 Fluid Mechanics
 
 ### R1: Why do waves tend to steepen?  
 
-Waves tend to steepen: why and why is the effecy ggreater in shallow water?
+Waves tend to steepen: why and why is the effecy greater in shallow water?
 
 ### R2: Jump condition
 
