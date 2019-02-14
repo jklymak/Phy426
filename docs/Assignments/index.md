@@ -11,6 +11,7 @@ Due in class on day indicated.
   - [Assignment/Reading 3: 29 Jan 2019](../Assignments/Assignment03/)
     - [Key](../Assignments/Assignment3Key.html)
   - [Assignment/Reading 4:  5 Feb 2019](../Assignments/Assignment04/)
+    - [Key](../Assignments/Assignment4Key.html)
   - [Assignment/Reading 5: 12 Feb 2019](../Assignments/Assignment05/)
   - [Assignment/Reading 6: 26 Feb 2019](../Assignments/Assignment06/)
   - [Assignment/Reading 7: 12 Mar 2019](../Assignments/Assignment07/)
