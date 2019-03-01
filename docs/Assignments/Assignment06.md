@@ -30,7 +30,7 @@ Why do the conformal mapping?  What advantage does applying these transformation
 
 Consider a steepening wave by computing the flow and height fields by the method of characteristics.  
 
-Suppose there is a quiescent region to the right of $x=0$ of thickness $d_0$ such that the shallow water wave speed there is $c_0=0.1 \ m/s$.  For $x<2.5\ m$ $c = 1 \ m/s$.  The wave speed varies linearly between these two points.  
+Suppose there is a quiescent region to the right of $x=0$ of thickness $d_0$ such that the shallow water wave speed there is $c_0=0.1 \ m/s$.  For $x<-2.5\ m$ $c = 1 \ m/s$.  The wave speed varies linearly between these two points.  
 
 We define $u$ such that the negative characteristic value is the same every where, i.e. $u(x, 0) = 2 (c(x, 0) - c_0)$, so that the velocity is zero in the shallow region, and $1.8 \ m/s$ in the deep region, and linearly varying between the two regions.  
 
