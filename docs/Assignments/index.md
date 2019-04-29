@@ -18,3 +18,5 @@ Due in class on day indicated.
     - [Key](../Assignments/Assignment6Key.html)
   - [Assignment/Reading 7: 20 Mar 2019](../Assignments/Assignment07/)
   - [Assignment/Reading 8: 27 Mar 2019](../Assignments/Assignment08/)
+
+  - [Take-home final Key](../Assignments/TakeHome2019Key.pdf)
