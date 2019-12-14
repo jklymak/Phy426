@@ -5,7 +5,7 @@ title: Physics 426 Fluid Mechanics
 
 ## Physics 426 Fluid Mechanics
 
-Spring 2019
+Spring 2020
 
 
 ![Flow separation behind an airfoil](./figs/Flow_separation.jpg)
@@ -43,15 +43,17 @@ Largely *Kundu and Cohen* Latest edition, but also see [Texts](./Texts/).
 
 ## Course grading
 
-  - 5%  Weekly readings (in the Assignments).
   - 40% [Assignments](./Assignments/);
-  - 35% [Laboratory Project](./LabProject/);
-  - 20% Take Home Exam
+  - 15% Midterm Exam
+  - 20% [Laboratory Demonstrations](./Labs/);
+  - 25% Final Exam
 
 Late work penalized as 10% per day, max 5 days.  Academic concessions will be granted
 with appropriate documentation as per [UVic's regulations](https://www.uvic.ca/registrar/students/appeals/acad-concession/index.php).
 
-## [Laboratory Project](./LabProject/)
+## [Laboratory Demonstrations](./Labs/)
+
+## Assignments
 
 {% comment %}
 [Key](./Assignments/Assignment1Key.pdf)
@@ -60,9 +62,9 @@ with appropriate documentation as per [UVic's regulations](https://www.uvic.ca/r
 [Key](./Assignments/Assignment4Foil.pdf)
 {% endcomment %}
 
-## Take Home final:
-
 {% comment %}
+## Final Examination:
+
 - [Take Home Final: Due 13 Apr, 23:59](./Assignments/TakeHome2018.pdf)
   - [Key](./Assignments/TakeHome2018.pdf)
 {% endcomment %}
