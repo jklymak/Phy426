@@ -1,0 +1,508 @@
+
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+   <!--
+This HTML was auto-generated from MATLAB code.
+To make changes, update the MATLAB code and republish this document.
+      --><title>Assignment3Q1</title><meta name="generator" content="MATLAB 7.13"><link rel="schema.DC" href="http://purl.org/dc/elements/1.1/"><meta name="DC.date" content="2011-11-16"><meta name="DC.source" content="Assignment3Q1.m"><style type="text/css">
+
+body {
+  background-color: white;
+  margin:10px;
+}
+
+h1 {
+  color: #990000; 
+  font-size: x-large;
+}
+
+h2 {
+  color: #990000;
+  font-size: medium;
+}
+
+/* Make the text shrink to fit narrow windows, but not stretch too far in 
+wide windows. */ 
+p,h1,h2,div.content div {
+  max-width: 600px;
+  /* Hack for IE6 */
+  width: auto !important; width: 600px;
+}
+
+pre.codeinput {
+  background: #EEEEEE;
+  padding: 10px;
+}
+@media print {
+  pre.codeinput {word-wrap:break-word; width:100%;}
+} 
+
+span.keyword {color: #0000FF}
+span.comment {color: #228B22}
+span.string {color: #A020F0}
+span.untermstring {color: #B20000}
+span.syscmd {color: #B28C00}
+
+pre.codeoutput {
+  color: #666666;
+  padding: 10px;
+}
+
+pre.error {
+  color: red;
+}
+
+p.footer {
+  text-align: right;
+  font-size: xx-small;
+  font-weight: lighter;
+  font-style: italic;
+  color: gray;
+}
+
+  </style></head><body><div class="content"><h2>Contents</h2><div><ul><li><a href="#1">Solve Laplace's eqn.</a></li><li><a href="#2">Plot solution</a></li><li><a href="#4">Construct analytic solution</a></li><li><a href="#5">Plot the difference</a></li></ul></div><h2>Solve Laplace's eqn.<a name="1"></a></h2><pre class="codeinput">nz = 200;
+nx = 200;
+
+psi = zeros(nz,nx);
+
+psi(:,1) = (0:(nz-1))/(nz-1);
+psi = repmat(psi(:,1),1,nx);
+
+inz=2:nz-1;
+inx = 2:nx-1;
+
+R = 10;
+x = 1:nx;x=x-mean(x);
+z = (1:nz)/4;z=z-mean(z);
+z = z;
+[X,Z]=meshgrid(x,z);
+<span class="keyword">for</span> i=1:length(x);
+  <span class="keyword">if</span> length(in)&gt;0
+    top(i)=max(in);
+    bot(i)=min(in);
+  <span class="keyword">else</span>
+    top(i)=NaN;
+    bot(i)=NaN;
+  <span class="keyword">end</span>
+
+<span class="keyword">end</span>
+
+x1=-0;
+z1=-0;
+R=10;
+inBod = find((X-x1).^2+(Z-z1).^2&lt;R.^2);
+frontx = max(find((x-x1)&lt;-R));
+frontz = min(find((z-z1)&gt;=0));
+
+R2 = 5;
+
+x2=12;
+z2=12;
+
+inBod2 = find((X-x2).^2+(Z-z2).^2&lt;R2.^2);
+front2x = max(find((x-x2)&lt;-R2));
+front2z = min(find((z-z2)&gt;=0));
+er=NaN*zeros(1,100000);
+
+<span class="keyword">for</span> i=1:50000;
+  <span class="comment">% upstream, downstream</span>
+  psi0=psi;
+  psi(:,1) = (0:(nz-1))/(nz-1);
+  psi(:,end) = (0:(nz-1))/(nz-1);
+  <span class="comment">% top and bottom</span>
+  psi(1,:)=0;psi(end,:)=1;
+  psi(inBod)=psi(frontz,frontx);
+  P1=psi(frontz,frontx);
+  psi(inBod2)=psi(front2z,front2x);
+  P2=psi(front2z,front2x);
+  psi(inz,inx)=(psi(inz,inx+1)+psi(inz,inx-1)+psi(inz+1,inx)+psi(inz-1,inx))/4;
+
+  <span class="comment">% Make the leading edge of object all same streamline...</span>
+
+  <span class="keyword">if</span> mod(i,1000000)==0;
+    clf
+    contour(psi,25);
+    drawnow;
+
+  <span class="keyword">end</span>;
+
+  er(i)=sum((psi0(:)-psi(:)).^2);
+  <span class="keyword">if</span> er(i)&lt;1e-9
+    <span class="keyword">break</span>;
+  <span class="keyword">end</span>;
+
+<span class="keyword">end</span>;
+</pre><h2>Plot solution<a name="2"></a></h2><pre class="codeinput">clf
+jmkfigure(1,2,0.8);clf
+subplot3(3,1,1)
+contour(x,z,psi,linspace(0,1,50));
+<span class="comment">%hold on;</span>
+<span class="comment">%contour(x,z,psi,[P1 P1+0.001]);</span>
+<span class="comment">%contour(x,z,psi,[P2 P2+0.001]);</span>
+axis <span class="string">equal</span>;
+putonleft(title(<span class="string">'\psi Numeric'</span>));
+colorbar;
+</pre><pre class="codeoutput">
+ans =
+
+  174.0817
+
+</pre><img vspace="5" hspace="5" src="Assignment3Q1_01.png" alt=""> <pre class="codeinput">Y=Z;
+</pre><h2>Construct analytic solution<a name="4"></a></h2><pre class="codeinput">Z = X+sqrt(-1)*Y;
+r = abs(Z);
+theta = angle(Z);
+U = 1/50;
+w = U*(Z+R.^2./Z);
+
+psi1 = imag(w);
+
+Z2 = Z-(x2+sqrt(-1)*z2);
+
+w2 = U*R2.^2./Z2;
+psi2 = imag(w2);
+
+psiAnalytic = psi1+psi2+0.5;
+
+subplot3(3,1,2);
+bad = find(abs(Z)&lt;R);
+psiAnalytic(bad)=NaN;
+bad = find(abs(Z2)&lt;R2);
+psiAnalytic(bad)=NaN;
+
+contour(x,z,psiAnalytic,linspace(0,1,50));
+putonleft(title(<span class="string">'\psi Analytic (note no walls)'</span>));
+colorbar;
+
+axis <span class="string">equal</span>;
+</pre><img vspace="5" hspace="5" src="Assignment3Q1_02.png" alt=""> <h2>Plot the difference<a name="5"></a></h2><p>Note that the analytic solution has no sidewalls, and thus the flow is less constrained near the bodies, significantly altering the streamlines.</p><pre class="codeinput">subplot3(3,1,3)
+dp = psi - psiAnalytic;
+bad = find(abs(Z)&lt;R);
+dp(bad)=NaN;
+bad = find(abs(Z2)&lt;R2);
+dp(bad)=NaN;
+pcolor(x,z,dp);
+shading <span class="string">flat</span>
+caxis([-1 1]/10)
+axis <span class="string">equal</span>
+putonleft(title(<span class="string">'\psi_{Numeric}-\psi_{Analytic}'</span>));
+colorbar
+xlabel(<span class="string">'X [m]'</span>);
+ylabel(<span class="string">'Y [m]'</span>);
+
+<span class="keyword">if</span> dop
+  docprint(<span class="string">'Assignment3Q1S1'</span>,<span class="string">'Assignment3Q1.m'</span>,500)
+<span class="keyword">end</span>
+</pre><pre class="codeoutput">
+ans =
+
+  563.0009
+
+</pre><img vspace="5" hspace="5" src="Assignment3Q1_03.png" alt=""> <p>Solve Laplace's eqn.</p><pre class="codeinput">nz = 200;
+nx = 200;
+
+psi = zeros(nz,nx);
+
+psi(:,1) = (0:(nz-1))/(nz-1);
+psi = repmat(psi(:,1),1,nx);
+
+inz=2:nz-1;
+inx = 2:nx-1;
+
+R = 10;
+x = 1:nx;x=x-mean(x);
+z = (1:nz)/4;z=z-mean(z);
+z = z;
+[X,Z]=meshgrid(x,z);
+<span class="keyword">for</span> i=1:length(x);
+  <span class="keyword">if</span> length(in)&gt;0
+    top(i)=max(in);
+    bot(i)=min(in);
+  <span class="keyword">else</span>
+    top(i)=NaN;
+    bot(i)=NaN;
+  <span class="keyword">end</span>
+
+<span class="keyword">end</span>
+
+x1=-0;
+z1=-0;
+R=10;
+inBod = find(abs(X-x1)&lt; R &amp; abs(Z-z1)&lt;R);
+frontx = max(find((x-x1)&lt;-R));
+frontz = min(find((z-z1)&gt;=0));
+
+
+er=NaN*zeros(1,100000);
+
+<span class="keyword">for</span> i=1:50000;
+  <span class="comment">% upstream, downstream</span>
+  psi0=psi;
+  psi(:,1) = (0:(nz-1))/(nz-1);
+  psi(:,end) = (0:(nz-1))/(nz-1);
+  <span class="comment">% top and bottom</span>
+  psi(1,:)=0;psi(end,:)=1;
+  psi(inBod)=psi(frontz,frontx);
+  P1=psi(frontz,frontx);
+  psi(inz,inx)=(psi(inz,inx+1)+psi(inz,inx-1)+psi(inz+1,inx)+psi(inz-1,inx))/4;
+
+  <span class="comment">% Make the leading edge of object all same streamline...</span>
+
+  <span class="keyword">if</span> mod(i,1000000)==0;
+    clf
+    contour(psi,25);
+    drawnow;
+
+  <span class="keyword">end</span>;
+
+  er(i)=sum((psi0(:)-psi(:)).^2);
+  <span class="keyword">if</span> er(i)&lt;1e-9
+    <span class="keyword">break</span>;
+  <span class="keyword">end</span>;
+
+<span class="keyword">end</span>;
+</pre><pre class="codeinput">clf
+jmkfigure(1,2,0.8);
+subplot3(3,1,1)
+contour(x,z,psi,linspace(0,1,50));
+<span class="comment">%hold on;</span>
+<span class="comment">%contour(x,z,psi,[P1 P1+0.001]);</span>
+<span class="comment">%contour(x,z,psi,[P2 P2+0.001]);</span>
+axis <span class="string">equal</span>;
+putonleft(title(<span class="string">'\psi Numeric'</span>));
+colorbar;
+</pre><pre class="codeoutput">
+ans =
+
+  174.0818
+
+</pre><img vspace="5" hspace="5" src="Assignment3Q1_04.png" alt=""> <p class="footer"><br>
+      Published with MATLAB&reg; 7.13<br></p></div><!--
+##### SOURCE BEGIN #####
+%% Solve Laplace's eqn.  
+
+nz = 200;
+nx = 200;
+
+psi = zeros(nz,nx);
+
+psi(:,1) = (0:(nz-1))/(nz-1);
+psi = repmat(psi(:,1),1,nx);
+
+inz=2:nz-1;
+inx = 2:nx-1;
+
+R = 10;
+x = 1:nx;x=x-mean(x);
+z = (1:nz)/4;z=z-mean(z);
+z = z;
+[X,Z]=meshgrid(x,z);
+for i=1:length(x);
+  if length(in)>0
+    top(i)=max(in);
+    bot(i)=min(in);
+  else
+    top(i)=NaN;
+    bot(i)=NaN;
+  end
+  
+end
+
+x1=-0;
+z1=-0;
+R=10;
+inBod = find((X-x1).^2+(Z-z1).^2<R.^2);
+frontx = max(find((x-x1)<-R));
+frontz = min(find((z-z1)>=0));
+
+R2 = 5;
+
+x2=12;
+z2=12;
+
+inBod2 = find((X-x2).^2+(Z-z2).^2<R2.^2);
+front2x = max(find((x-x2)<-R2));
+front2z = min(find((z-z2)>=0));
+er=NaN*zeros(1,100000);
+
+for i=1:50000;
+  % upstream, downstream
+  psi0=psi;
+  psi(:,1) = (0:(nz-1))/(nz-1);
+  psi(:,end) = (0:(nz-1))/(nz-1);
+  % top and bottom
+  psi(1,:)=0;psi(end,:)=1;
+  psi(inBod)=psi(frontz,frontx);
+  P1=psi(frontz,frontx);
+  psi(inBod2)=psi(front2z,front2x);
+  P2=psi(front2z,front2x);
+  psi(inz,inx)=(psi(inz,inx+1)+psi(inz,inx-1)+psi(inz+1,inx)+psi(inz-1,inx))/4;
+  
+  % Make the leading edge of object all same streamline...
+  
+  if mod(i,1000000)==0;
+    clf
+    contour(psi,25);
+    drawnow;
+    
+  end;
+  
+  er(i)=sum((psi0(:)-psi(:)).^2);
+  if er(i)<1e-9
+    break;
+  end;
+  
+end;
+
+%% Plot solution
+%
+clf
+jmkfigure(1,2,0.8);clf
+subplot3(3,1,1)
+contour(x,z,psi,linspace(0,1,50));
+%hold on;
+%contour(x,z,psi,[P1 P1+0.001]);
+%contour(x,z,psi,[P2 P2+0.001]);
+axis equal;
+putonleft(title('\psi Numeric'));
+colorbar;
+%% 
+Y=Z;
+%% Construct analytic solution
+%
+Z = X+sqrt(-1)*Y;
+r = abs(Z);
+theta = angle(Z);
+U = 1/50;
+w = U*(Z+R.^2./Z);
+
+psi1 = imag(w);
+
+Z2 = Z-(x2+sqrt(-1)*z2);
+
+w2 = U*R2.^2./Z2;
+psi2 = imag(w2);
+
+psiAnalytic = psi1+psi2+0.5;
+
+subplot3(3,1,2);
+bad = find(abs(Z)<R);
+psiAnalytic(bad)=NaN;
+bad = find(abs(Z2)<R2);
+psiAnalytic(bad)=NaN;
+
+contour(x,z,psiAnalytic,linspace(0,1,50));
+putonleft(title('\psi Analytic (note no walls)'));
+colorbar;
+
+axis equal;
+
+%% Plot the difference
+% Note that the analytic solution has no sidewalls, and thus the flow is
+% less constrained near the bodies, significantly altering the streamlines.
+
+subplot3(3,1,3)
+dp = psi - psiAnalytic;
+bad = find(abs(Z)<R);
+dp(bad)=NaN;
+bad = find(abs(Z2)<R2);
+dp(bad)=NaN;
+pcolor(x,z,dp);
+shading flat
+caxis([-1 1]/10)
+axis equal
+putonleft(title('\psi_{Numeric}-\psi_{Analytic}'));
+colorbar
+xlabel('X [m]');
+ylabel('Y [m]');
+
+if dop
+  docprint('Assignment3Q1S1','Assignment3Q1.m',500)
+end
+
+
+
+%% 
+% Solve Laplace's eqn.  
+
+nz = 200;
+nx = 200;
+
+psi = zeros(nz,nx);
+
+psi(:,1) = (0:(nz-1))/(nz-1);
+psi = repmat(psi(:,1),1,nx);
+
+inz=2:nz-1;
+inx = 2:nx-1;
+
+R = 10;
+x = 1:nx;x=x-mean(x);
+z = (1:nz)/4;z=z-mean(z);
+z = z;
+[X,Z]=meshgrid(x,z);
+for i=1:length(x);
+  if length(in)>0
+    top(i)=max(in);
+    bot(i)=min(in);
+  else
+    top(i)=NaN;
+    bot(i)=NaN;
+  end
+  
+end
+
+x1=-0;
+z1=-0;
+R=10;
+inBod = find(abs(X-x1)< R & abs(Z-z1)<R);
+frontx = max(find((x-x1)<-R));
+frontz = min(find((z-z1)>=0));
+
+
+er=NaN*zeros(1,100000);
+
+for i=1:50000;
+  % upstream, downstream
+  psi0=psi;
+  psi(:,1) = (0:(nz-1))/(nz-1);
+  psi(:,end) = (0:(nz-1))/(nz-1);
+  % top and bottom
+  psi(1,:)=0;psi(end,:)=1;
+  psi(inBod)=psi(frontz,frontx);
+  P1=psi(frontz,frontx);
+  psi(inz,inx)=(psi(inz,inx+1)+psi(inz,inx-1)+psi(inz+1,inx)+psi(inz-1,inx))/4;
+  
+  % Make the leading edge of object all same streamline...
+  
+  if mod(i,1000000)==0;
+    clf
+    contour(psi,25);
+    drawnow;
+    
+  end;
+  
+  er(i)=sum((psi0(:)-psi(:)).^2);
+  if er(i)<1e-9
+    break;
+  end;
+  
+end;
+
+%%
+clf
+jmkfigure(1,2,0.8);
+subplot3(3,1,1)
+contour(x,z,psi,linspace(0,1,50));
+%hold on;
+%contour(x,z,psi,[P1 P1+0.001]);
+%contour(x,z,psi,[P2 P2+0.001]);
+axis equal;
+putonleft(title('\psi Numeric'));
+colorbar;
+
+
+
+##### SOURCE END #####
+--></body></html>

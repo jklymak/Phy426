@@ -1,0 +1,6 @@
+function u = biharm(u);
+
+d4 = diff(diff(diff(diff(u))));
+
+u(3:end-2)= u(3:end-2)-d4/;
+
