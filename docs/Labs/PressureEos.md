@@ -19,7 +19,6 @@ Show using the vertical pipes that the flow in the narrower pipe has less pressu
 
 Find a number of things that float and discuss their stability to tipping as they float in different orientations.  
 
-
  - https://www.youtube.com/watch?v=8ma4kW3xVT0
  - https://www.youtube.com/watch?v=K5g6P8-GmBg
  - https://www.youtube.com/watch?v=bOKa3rDnTeM
