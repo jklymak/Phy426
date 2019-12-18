@@ -77,11 +77,11 @@ These are filled out online at [ces.uvic.ca](http://ces.uvic.ca).  There should 
 
 Please feel free to contact me through the mailing lists:
 
-[201901-phys426-22494@lists.uvic.ca](mailto:201901-phys426-22494@lists.uvic.ca)
+[202001-phys426-22463@lists.uvic.ca](mailto:202001-phys426-22463@lists.uvic.ca)
 
 To manage your list, have a look at the appropriate page:
 
-[https://lists.uvic.ca/mailman/listinfo/201901-phys426-22494](  https://lists.uvic.ca/mailman/listinfo/201901-phys426-22494)
+[https://lists.uvic.ca/mailman/listinfo/202001-phys426-22463](  https:// https://lists.uvic.ca/mailman/listinfo/202001-phys426-22463)
 
 Questions that will benefit all your classmates are very welcome on
 the list, i.e. about homework, etc.  
