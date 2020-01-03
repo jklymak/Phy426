@@ -7,16 +7,14 @@ title: Physics 426 Fluid Mechanics
 
 Spring 2020
 
-
 ![Flow separation behind an airfoil](./figs/Flow_separation.jpg)
-
 
   - Instructor: [Jody Klymak](http://web.uvic.ca/~jklymak)
   - Office: [Bob Wright Centre](http://www.uvic.ca/buildings/sci.html) A313
   - Tel: (250)-472-5969; Email: [jklymak@uvic.ca](mailto:jklymak@uvic.ca)
-  - Office Hours: TBD or by appointment
+  - Office Hours: By appointment
   - Meeting time:  TWF 11:30-12:20
-  - Lab time:  TBD
+  - Lab time:  Th 13:30 (Or by agreement)
   - Location:  [BWC B121](http://www.uvic.ca/home/about/campus-info/maps/maps/sci.php)
 
 ## Course Objectives ##
@@ -43,10 +41,10 @@ Largely *Kundu and Cohen* Latest edition, but also see [Texts](./Texts/).
 
 ## Course grading
 
-  - 40% [Assignments](./Assignments/);
+  - 45% [Assignments](./Assignments/);
   - 15% Midterm Exam
   - 20% [Laboratory Demonstrations](./Labs/);
-  - 25% Final Exam
+  - 20% Final Exam
 
 Late work penalized as 10% per day, max 5 days.  Academic concessions will be granted
 with appropriate documentation as per [UVic's regulations](https://www.uvic.ca/registrar/students/appeals/acad-concession/index.php).

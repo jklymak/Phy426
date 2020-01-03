@@ -20,7 +20,7 @@ Sometimes we want to know the vorticity.  Why might it be easier to measure the 
 
 ### R3: Method of images
 
-Vortext interactions with a wall can be modeled using the method of images.  What is the electrical equivalent?  
+Vortex interactions with a wall can be modelled using the method of images.  What is the electrical equivalent?  
 
 ## Assignment
 

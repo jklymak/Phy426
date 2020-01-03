@@ -3,7 +3,10 @@ layout: page
 title: Assignments
 ---
 
+2020: Subject to revision!  These are the 2019 assignments.  
+
 Due in class on day indicated.
+
 
 
   - [Assignment/Reading 1: 15 Jan 2019](../Assignments/Assignment01/)
