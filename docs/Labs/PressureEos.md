@@ -13,7 +13,7 @@ Repeat the experiment but with a hose that goes higher than the surface of the r
 
 ## Pressure in a moving flow
 
-Show using the vertical pipes that the flow in the narrower pipe has less pressure than the flow in the thicker pipe.  Why?  How does the difference vary with reservoir height?  
+We have a venturi apparatus that allows water to flow through pipes of various thickness.  Explain why the water level at each measurement pipe is different.  Does the difference increase as the flow rate increases?  Is there a power law?  
 
 ## Stability
 
