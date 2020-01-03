@@ -3,16 +3,14 @@ layout: page
 title: Assignments
 ---
 
-2020: Subject to revision!  These are the 2019 assignments.  
-
 Due in class on day indicated.
-
-
 
   - [Assignment/Reading 1: 10 Jan 2020](../Assignments/Assignment01/)
   - [Assignment/Reading 2: 17 Jan 2020](../Assignments/Assignment02/)
+
+OLD: 2019
+  {% comment %}
   - [Assignment/Reading 3: 24 Jan 2020](../Assignments/Assignment03/)
-{% comment %}
     - [Key](../Assignments/Assignment3Key.html)
 {% endcomment %}
   - [Assignment/Reading 4:  31 Jan 2020](../Assignments/Assignment04/)
