@@ -39,11 +39,11 @@ $$v = x$$
 
   - Derive and sketch the streamlines $\psi$ of the flow.
   - Contour the streamfunction on a computer
-    - where in the flow would you put the walls to make this the flow in a corner?
+    - where in the flow would you put the walls to make this a flow in a corner?
   - Demonstrate analytically that the the flow is non-divergent (i.e. that the
     sum of the linear strain rates is zero)
   - Demonstrate that it is close to non-divergent in your computer code.  
-  - put two material lines that are initially perpendicular to each other somewhere in the flow and advect them forward in time enough to see some distortion.  Show that the rate that the elements come together or spread apart is close to the shear strain rate you would calculate analytically.  (For the advection, I used a 2-d interpolation in scipy, which is a little funky (see below))
+  - put two material lines that are initially perpendicular to each other somewhere in the flow and numerically advect them forward in time enough to see some distortion.  Show that the rate that the elements come together or spread apart is close to the shear strain rate you would calculate analytically.  (For the advection, I used a 2-d interpolation in scipy, which is a little funky (see below))
 
 ```python
     import scipy.interpolate as sinterp
