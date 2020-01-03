@@ -52,8 +52,6 @@ $$v = x$$
 ```
 
 
-
-
 ### A2: Multiple density mixing vat (/5)
 
 Suppose we have a mixing vat, with one inflow at $q_1 = 2\ m^3\,s^{-1}$ and a fluid of density $\rho_1 = 1000\ kg\,m^{-3}$, and a second inflow with density $\rho_2 = 1030\ kg\,m^{-3}$, and an outflow with density $\rho_3 = 1028\ kg\,m^{-3}$.  What must the outflow rate be if the fluids are incompressible?

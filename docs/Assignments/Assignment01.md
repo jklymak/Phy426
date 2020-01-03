@@ -25,7 +25,7 @@ In classical mechanics we usually describe forces acting on a particle.  Why is 
 
 ### Linear strain and compressibility
 
-If a fluid is incompressible, why must the sum of the linear strain rates be zero?  i.e. if you squish a balloon in the x direction, what happens to the velocities in the y and z directions?
+If a fluid is incompressible, why must the sum of the linear strain rates be zero?  i.e. if you squish a balloon in the x direction (convergence), what happens to the velocities in the y and z directions?
 
 ### Conservation of mass
 
