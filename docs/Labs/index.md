@@ -42,4 +42,5 @@ document.  Hand in to me by email.
 
 ## Topics:
 
- - [Pressure and Buoyancy](./PressureEos/): 16 Jan
+  - [Pressure and Buoyancy](./PressureEos/): 16 Jan
+  - [Hydrualic Control](./HydraulicControl/): 23 Jan
