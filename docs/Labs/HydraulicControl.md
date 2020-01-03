@@ -5,7 +5,7 @@ title: Hydraulic Control...
 
 ## Hydraulic flow lab
 
-We have a nice flow-metered table: using the instructions they provide show that as the flow speed increases the reservoir height increases.  By what exponent?  
+We have a nice flow-metered table: using the instructions they provide show that as the flow speed increases the reservoir height increases.  By what power law?  
 
 ## Hydraulic hysteresis
 
