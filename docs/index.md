@@ -43,7 +43,7 @@ Largely *Kundu and Cohen* Latest edition, but also see [Texts](./Texts/).
 
   - 45% [Assignments](./Assignments/);
   - 15% Midterm Exam
-  - 20% [Laboratory Demonstrations](./Labs/);
+  - 20% [Student-led Laboratory Demonstrations](./Labs/);
   - 20% Final Exam
 
 Late work penalized as 10% per day, max 5 days.  Academic concessions will be granted
