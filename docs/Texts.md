@@ -8,7 +8,7 @@ numbers have changed etc.
 
 Note that the 2008 edition is available online if you are on the UVic
 network or VPN at
- http://ebookcentral.proquest.com/lib/uvic/detail.action?docID=534929
+ <http://ebookcentral.proquest.com/lib/uvic/detail.action?docID=534929>
 
 **Other texts**
 
