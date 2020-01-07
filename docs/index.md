@@ -52,7 +52,7 @@ with appropriate documentation as per [UVic's regulations](https://www.uvic.ca/r
 
 ## [Laboratory Demonstrations](./Labs/)
 
-## Assignments
+## [Assignments](./Assignments/)
 
 {% comment %}
 [Key](./Assignments/Assignment1Key.pdf)
