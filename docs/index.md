@@ -21,6 +21,7 @@ Spring 2020
 
   - Learn the fundamental properties of fluids.
   - Apply conservation laws to theoretical and practical problems
+  - Apply (simple) numerical methods to fluid problems
   - Gain experience with laboratory methods
   - Gain experience in written and spoken presentation
 
@@ -41,10 +42,10 @@ Largely *Kundu and Cohen* Latest edition, but also see [Texts](./Texts/).
 
 ## Course grading
 
-  - 45% [Assignments](./Assignments/);
-  - 15% Midterm Exam
-  - 20% [Student-led Laboratory Demonstrations](./Labs/);
-  - 20% Final Exam
+  - 55% [Assignments and Readings](./Assignments/);
+  - 12% Midterm Exam
+  - 15% [Student-led Laboratory Demonstrations](./Labs/);
+  - 18% Final Exam
 
 Late work penalized as 10% per day, max 5 days.  Academic concessions will be granted
 with appropriate documentation as per [UVic's regulations](https://www.uvic.ca/registrar/students/appeals/acad-concession/index.php).
