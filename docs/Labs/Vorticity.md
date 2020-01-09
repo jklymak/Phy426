@@ -10,7 +10,7 @@ title: Vorticity
 ## Smoke Rings
 
   - Make a smoke ring generator (see videos below).  
-  s
+
 
 ## Links
 
