@@ -45,3 +45,4 @@ document.  Hand in to me by email.
   - [Pressure and Buoyancy](./PressureEos/): 16 Jan
   - [Hydrualic Control](./HydraulicControl/): 23 Jan
   - [Waves](./Waves/): 30 Jan
+  - [Vorticity](./Vorticity): 6 Jan
