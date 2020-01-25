@@ -11,7 +11,7 @@ title: Assignment/Reading 4, Physics 426 Fluid Mechanics
 
 ### R1: Why do waves tend to steepen?  
 
-Waves tend to steepen: why and why is the effecy greater in shallow water?
+Waves tend to steepen: why?
 
 ### R2: Jump condition
 
@@ -31,6 +31,6 @@ What two wave tendencies are balanced in a soliton?
 
   Consider flow over an isolated obstacle in a channel, as in class.  Assume that the obstacle is a triangle, with height off a flat channel of $h_m = 10\ \mathrm{m}$, and that the triangle's ramp has a slope of 1/100.  Assume that the incoming two-d flow transport is a fixed $30\ \mathrm{m^2\,s^{-1}}$, that the flow is in steady state, and that the flow is controlled at the crest.
 
-  - What is the thickness of the water column, $d_0$, far upstream of the obstacle?  (OK to use a root finder and give a numeric answer)
-  - Knowing the height far upstream you can numerically integrate in x (or calculate the cubic at each point in x) to get the water thickness $d(x)$ as a function of $x$.  Plot the water thickness as a function of $x$ from $x=-1000 m$ (upstream) to $x=0\ \mathrm{m}$ (the crest).  Check that $F_m = 1$ in your calculation.  For precision, make sure that you have a data point every 10 cm or so; include your code, and the expressions you used to get the interface heights.  Make the plot as nice as possible (including the obstacle, helps.  
-  -  Knowing the water thickness as a function of $x$, use the Momentum Theorem to numerically demonstrate that the momentum balance is satisfied.
+  - What is the thickness of the water column, $d_0$, far upstream of the obstacle?  (Note that we cannot assume u_0 = 0 upstream of the obstacle, but otherwise the derivation is the same.  OK to use a root finder and give a numeric answer)
+  - Knowing the height far upstream, you can numerically integrate in x (or calculate the cubic at each point in x) to get the water thickness $d(x)$ as a function of $x$.  Plot the water thickness as a function of $x$ from $x=-1000 m$ (upstream) to $x=0\ \mathrm{m}$ (the crest).  Check that at the sill crest $\frac{u_m^2}{g d_m} = F_m = 1$ in your calculation.  For precision, make sure that you have a data point every 10 cm or so; include your code, and the expressions you used to get the interface heights.  Make the plot as nice as possible - including the obstacle, helps.  
+  -  Knowing the water thickness as a function of $x$, numerically demonstrate that the integrated momentum balance is satisfied in the x-direction over a volume that extends from upstream of the sill to the sill crest.   
