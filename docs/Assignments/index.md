@@ -8,12 +8,12 @@ Due in class on day indicated.
   - [Assignment/Reading 1: 10 Jan 2020](../Assignments/Assignment01/)
   - [Assignment/Reading 2: 17 Jan 2020](../Assignments/Assignment02/)
   - [Assignment/Reading 3: 24 Jan 2020](../Assignments/Assignment03/)
+  - [Assignment/Reading 4:  31 Jan 2020](../Assignments/Assignment04/)
 
 OLD: 2019
   {% comment %}
     - [Key](../Assignments/Assignment3Key.html)
 {% endcomment %}
-  - [Assignment/Reading 4:  31 Jan 2020](../Assignments/Assignment04/)
 {% comment %}
     - [Key](../Assignments/Assignment4Key.html)
 {% endcomment %}
