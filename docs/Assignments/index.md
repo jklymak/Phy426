@@ -14,6 +14,9 @@ Due in class on day indicated.
   - [Assignment/Reading 5: 7 Feb 2020](../Assignments/Assignment05/)
     - [Key](../Assignments/Assignment5Key.html)
   - [Assignment/Reading 6: 14 Feb 2020](../Assignments/Assignment06/)
+  - [Assignment/Reading 7: 28 Feb 2020](../Assignments/Assignment07/)
+  - [Assignment/Reading 8: 9 Mar 2020](../Assignments/Assignment08/)
+  - [Assignment/Reading 9: 13 Mar 2020](../Assignments/Assignment09/)
 
 OLD: 2019
   {% comment %}
@@ -25,9 +28,6 @@ OLD: 2019
 {% comment %}
     - [Key](../Assignments/Assignment6Key.html)
 {% endcomment %}
-  - [Assignment/Reading 7: 28 Feb 2020](../Assignments/Assignment07/)
-  - [Assignment/Reading 8: 6 Mar 2020](../Assignments/Assignment08/)
-  - [Assignment/Reading 9: 13 Mar 2020](../Assignments/Assignment08/)
 {% comment %}
   - [Take-home final Key](../Assignments/TakeHome2019Key.pdf)
 {% endcomment %}
