@@ -11,7 +11,7 @@ then "unmixing" the dye.
 
 ## Osborne Reynolds demonstration
 
-Show the difference between flows as the Reynlds number is increased using
+Show the difference between flows as the Reynolds number is increased using
 the Osborne-Reynolds apparatus
 
 ## Links
