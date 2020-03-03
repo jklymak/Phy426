@@ -48,4 +48,4 @@ document.  Hand in to me by email.
   - [Vorticity](./Vorticity): 6 Feb
   - [Lift and drag](./Lift): 27 Feb
   - [Laminar Flow](./LaminarFlow): 5 Mar
-  -
+  - [Stratified Flow](./StratifiedFlow): 12 Mar
