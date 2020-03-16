@@ -17,6 +17,7 @@ Due in class on day indicated.
   - [Assignment/Reading 7: 28 Feb 2020](../Assignments/Assignment07/)
   - [Assignment/Reading 8: 9 Mar 2020](../Assignments/Assignment08/)
   - [Assignment/Reading 9: 13 Mar 2020](../Assignments/Assignment09/)
+  - [Assignment/Reading 10: (Mon) 23 Mar 2020](../Assignments/Assignment10/)
 
 OLD: 2019
   {% comment %}
