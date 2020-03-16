@@ -19,5 +19,6 @@ As an initial condition, suppose the upper interface is flat, and the interface 
 
   1.  There are four waves possible, what are their phase speeds and directions?  
   2. What is the amplitude of the surface displacement and interface displacement for each wave?  
-  3. Plot a Hovmoller diagram of the surface displacement and interface displacement covering a few wavelengths and periods.  Identify the surface and interface waves in the diagram.
+  3. Plot a Hovmoller diagram of the surface displacement and interface displacement covering a few wavelengths and periods.  Identify the surface and interface waves in the diagram.  (To do this, pick reasonable values for
+  the layer thicknesses and density differences).
   3. What is the energy flux of each wave?  
