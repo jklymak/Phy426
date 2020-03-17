@@ -33,12 +33,17 @@ Spring 2020
 
 Largely *Kundu and Cohen* Latest edition, but also see [Texts](./Texts/).  
 
+### Notes for missed two weeks:
+
+  - [Instability part A](./pdfs/Instability.pdf)
+
 ### Other resources
 
   - [National Committee for Fluid Mechanics Films](http://web.mit.edu/hml/ncfmf.html) are still excellent 58 years later.
   There are [written notes](http://web.mit.edu/hml/notes.html) as well.
   - [Notes on Shocks](./pdfs/PrattSec1.3_11445.pdf)
   - [Notes on hydrostatic non-linear flow](./pdfs/Baines2.3.pdf)
+  - [Movie Shear Simulation]('./')
 
 ## Course grading
 
