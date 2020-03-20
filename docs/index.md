@@ -35,9 +35,10 @@ Largely *Kundu and Cohen* Latest edition, but also see [Texts](./Texts/).
 
 ### Notes for missed two weeks:
 
-  - [Instability part A](./pdfs/Instability.pdf)
+  - [Instability](./pdfs/Instability.pdf)
     - [Instability Movie: Unstable](./pdfs/ChanPar04.mov)
     - [Instability Movie: Stable](./pdfs/ChanPar05.mov)
+  - [Turbulence](./pdfs/Turbulence.pdf)
 
 ### Other resources
 
