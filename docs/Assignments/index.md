@@ -22,17 +22,3 @@ Due in class on day indicated.
   - [Assignment/Reading 11: (Wed) 1 Apr 2020](../Assignments/Assignment11/)
 
   - [Take Home Final: 21 April 2020, 1200](../Assignments/TakeHome2020NoKey.pdf)
-
-OLD: 2019
-  {% comment %}
-{% endcomment %}
-{% comment %}
-{% endcomment %}
-{% comment %}
-{% endcomment %}
-{% comment %}
-    - [Key](../Assignments/Assignment6Key.html)
-{% endcomment %}
-{% comment %}
-  - [Take-home final Key](../Assignments/TakeHome2019Key.pdf)
-{% endcomment %}
