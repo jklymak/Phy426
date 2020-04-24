@@ -11,10 +11,10 @@ An instability, described in its simplest form, is when a perturbation continuou
 
 Helpful youtube links:
 
-https://www.youtube.com/watch?v=bXF0oF0Na6o&fbclid=IwAR0IdZNZEoyb2hXvIxGObAAeE63XrUVRKrFU2L4n7mDhoe3748_gNoX59Ns  
+<https://www.youtube.com/watch?v=bXF0oF0Na6o&fbclid=IwAR0IdZNZEoyb2hXvIxGObAAeE63XrUVRKrFU2L4n7mDhoe3748_gNoX59Ns>
 (Double diffusion begins at the 3:30 time mark, my demo is largely based on this video)
 
-https://www.youtube.com/watch?v=cNbMZTCH3S8   
+<https://www.youtube.com/watch?v=cNbMZTCH3S8>
 (Double diffusion an alternate way from above, with coffee!)
 
 ### Description
