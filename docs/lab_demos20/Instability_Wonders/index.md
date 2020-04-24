@@ -21,9 +21,9 @@ https://www.youtube.com/watch?v=cNbMZTCH3S8
 
 Double diffusion is an instability that occurs from the density of fluids depending on two opposing gradients. For the purposes of this experiment, hot, salty water was poured on top of cold, fresh water. Hot water is less than dense than cold water, so the hot water will want to stay on the top and the cold water on the bottom. However, salty water is more dense than fresh water, so the salty water will want to sink to the bottom to be underneath the less dense fresh water. This produces (with a little bit of dye) salt fingers, traveling down bellow the less dense fresh water, where it wants to be. Figure 11.13 (a) from page 554 of the class text book show a graphical representation of this finger instability, and Figure 11.14 also from page 554 of the class text book show an image of what the salt fingers look like in real life. Both pictures have been attached below.
 
-![Graph.png](Graph.png)
+![Graph.png](Graph.png){:width 700}
 
-![SaltFingers.png](SaltFingers.png)
+![SaltFingers.png](SaltFingers.png){:width 700}
 
 ### Apparatus
 
