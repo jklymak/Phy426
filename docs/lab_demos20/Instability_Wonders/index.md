@@ -49,7 +49,7 @@ Placing the sponge on top of the cold water in the big beaker (and making sure t
 
 This experiment was run several times trying to find the right balance between water temperatures and salinity in order to create the desired results. The main problem was trying to find the correct amount of salt. At first, too much salt was put into the hot water beaker and so when it was poured into the large cold water beaker, it almost immediately dropped down below the cold water, and did not create the nice salt fingers depicted in the picture above and in the first youtube video link. After several attempts, the right balance was created, and the result was the picture below.
 
-![blue.jpg](blue.jpg)
+![blue.jpg](blue.jpg){:width="700"}
 
 This experiment was noted that it did still proceed quite a bit more quickly than desired, and so it is thought that using water that wasn't quite so hot would aid in being able to produce better results. However, salt fingers were able to be seen and so we concluded the experiment here.
 
