@@ -79,7 +79,7 @@ with appropriate documentation as per [UVic's regulations](https://www.uvic.ca/r
 
 These are filled out online at [ces.uvic.ca](http://ces.uvic.ca).  There should be a link to this course on your dashboard.
 
-## BrightSpaces
+## BrightSpace
 
 - We will use brightspace to hand in assignments, and I will link to the assignments here
 - We will use brightspace for announcements and discussions.  
