@@ -5,7 +5,7 @@ title: Physics 426 Fluid Mechanics
 
 ## Physics 426 Fluid Mechanics
 
-Spring 2020 
+Spring 2021
 
 ![Flow separation behind an airfoil](./figs/Flow_separation.jpg)
 
@@ -51,8 +51,7 @@ Largely *Kundu and Cohen* Latest edition, but also see [Texts](./Texts/).
 ## Course grading
 
   - 55% [Assignments and Readings](./Assignments/);
-  - 12% Midterm Exam
-  - 15% [Student-led Laboratory Demonstrations](./Labs/);
+  - 27% [Student-led Laboratory Demonstrations](./Labs/);
   - 18% Final Exam
 
 Late work penalized as 10% per day, max 5 days.  Academic concessions will be granted
@@ -80,6 +79,13 @@ with appropriate documentation as per [UVic's regulations](https://www.uvic.ca/r
 
 These are filled out online at [ces.uvic.ca](http://ces.uvic.ca).  There should be a link to this course on your dashboard.
 
+## BrightSpaces
+
+- We will use brightspace to hand in assignments, and I will link to the assignments here
+- We will use brightspace for announcements and discussions.  
+
+{% comment %}
+
 ## Mailing list
 
 Please feel free to contact me through the mailing lists:
@@ -92,3 +98,4 @@ To manage your list, have a look at the appropriate page:
 
 Questions that will benefit all your classmates are very welcome on
 the list, i.e. about homework, etc.  
+{% endcomment %}
