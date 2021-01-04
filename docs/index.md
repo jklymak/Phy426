@@ -80,8 +80,8 @@ These are filled out online at [ces.uvic.ca](http://ces.uvic.ca).  There should 
 
 ## BrightSpace
 
-- We will use brightspace to hand in assignments, and I will link to the assignments here
-- We will use brightspace for announcements and discussions.  
+- We will use [BrightSpace](bright.uvic.ca) to hand in assignments, and I will link to the assignments here
+- We will use [BrightSpace](bright.uvic.ca) for announcements and discussions.  
 
 {% comment %}
 
