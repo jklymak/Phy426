@@ -51,8 +51,8 @@ Largely *Kundu and Cohen* Latest edition, but also see [Texts](./Texts/).
 ## Course grading
 
   - 55% [Assignments and Readings](./Assignments/);
-  - 27% [Student-led Laboratory Demonstrations](./Labs/);
-  - 18% Final Exam
+  - 30% [Student-led Laboratory Demonstrations](./Labs/);
+  - 15% Final Exam (take home)
 
 Late work penalized as 10% per day, max 5 days.  Academic concessions will be granted
 with appropriate documentation as per [UVic's regulations](https://www.uvic.ca/registrar/students/appeals/acad-concession/index.php).
