@@ -5,7 +5,7 @@ title: Physics 426 Fluid Mechanics
 
 ## Physics 426 Fluid Mechanics
 
-Spring 2020
+Spring 2020 
 
 ![Flow separation behind an airfoil](./figs/Flow_separation.jpg)
 
