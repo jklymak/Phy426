@@ -14,7 +14,7 @@ Spring 2021
   - Office Hours: By appointment
   - Meeting time:  TWF 11:30-12:20
   - Lab time:  Th 13:30 (Or by agreement)
-  - Location:  Online
+  - Location:  [Online](https://bright.uvic.ca)
 
   - Lab Instructor: [Andrew MacRae](http://web.uvic.ca/~macrae/)
   - [macrae@uvic.ca](mailto:macrae@uvic.ca)
@@ -82,8 +82,8 @@ These are filled out online at [ces.uvic.ca](http://ces.uvic.ca).  There should 
 
 ## BrightSpace
 
-- We will use [BrightSpace](bright.uvic.ca) to hand in assignments, and I will link to the assignments here.
-- We will use [BrightSpace](bright.uvic.ca) for announcements and discussions.  
+- We will use [BrightSpace](https://bright.uvic.ca) to hand in assignments, and I will link to the assignments here.
+- We will use [BrightSpace](https://bright.uvic.ca) for announcements and discussions.  
 
 {% comment %}
 
