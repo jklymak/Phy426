@@ -10,12 +10,14 @@ Spring 2021
 ![Flow separation behind an airfoil](./figs/Flow_separation.jpg)
 
   - Instructor: [Jody Klymak](http://web.uvic.ca/~jklymak)
-  - Office: [Bob Wright Centre](http://www.uvic.ca/buildings/sci.html) A313
-  - Tel: (250)-472-5969; Email: [jklymak@uvic.ca](mailto:jklymak@uvic.ca)
+  - Email: [jklymak@uvic.ca](mailto:jklymak@uvic.ca)
   - Office Hours: By appointment
   - Meeting time:  TWF 11:30-12:20
   - Lab time:  Th 13:30 (Or by agreement)
-  - Location:  [BWC B121](http://www.uvic.ca/home/about/campus-info/maps/maps/sci.php)
+  - Location:  Online
+
+  - Lab Instructor: [Andrew MacRae](http://web.uvic.ca/~macrae/)
+  - [macrae@uvic.ca](mailto:macrae@uvic.ca)
 
 ## Course Objectives ##
 
@@ -80,7 +82,7 @@ These are filled out online at [ces.uvic.ca](http://ces.uvic.ca).  There should 
 
 ## BrightSpace
 
-- We will use [BrightSpace](bright.uvic.ca) to hand in assignments, and I will link to the assignments here
+- We will use [BrightSpace](bright.uvic.ca) to hand in assignments, and I will link to the assignments here.
 - We will use [BrightSpace](bright.uvic.ca) for announcements and discussions.  
 
 {% comment %}

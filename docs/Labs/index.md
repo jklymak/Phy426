@@ -11,9 +11,10 @@ semester, and present the demo to the class.
 
 ## Components
 
+
 ### Prep:
 
-You will come in before the demo for a few hours, arranged with you, Nik, and
+You will come in before the demo for a few hours, arranged with you, and
 Andrew, and set up and practice the demonstrations.  You will want to take
 some pictures, make some movies, and do some simple measurements as suggested
 in the description of the demo.  
