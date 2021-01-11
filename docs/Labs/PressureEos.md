@@ -5,7 +5,7 @@ title: Pressure and Buoyancy
 
 ## Hydrostatic pressure and nozzle velocity
 
-Fill a large bucket that has a hole in the bottom up to the top.  As the bucket empties, record the height of the water to the hole, and the distance from the hole the water squirts before it strikes the ground.  
+Fill a large bucket that has a hole in the side, but near the bottom.  As the bucket empties, record the height of the water to the hole, and the distance from the hole the water squirts before it strikes the ground.  
 
 ## Siphon
 

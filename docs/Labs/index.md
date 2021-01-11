@@ -37,15 +37,16 @@ A write up is due the following week.  This is a few pages:
    - movies
  - discussions and hints for next time.
 Please format as a *webpage*, either as a jupyter Notebook, or a markdown
-document.  Hand in to me by email.  
+document.  Hand in on [BrightSpace](https://bright.uvic.ca/) as a zip file.  
 
 
 ## Topics:
 
-  - [Pressure and Buoyancy](./PressureEos/): 16 Jan
-  - [Hydrualic Control](./HydraulicControl/): 23 Jan
-  - [Waves](./Waves/): 30 Jan
-  - [Vorticity](./Vorticity): 6 Feb
-  - [Lift and drag](./Lift): 27 Feb
-  - [Laminar Flow](./LaminarFlow): 5 Mar
-  - [Stratified Flow](./StratifiedFlow): 12 Mar
+  - [Pressure and Buoyancy](./PressureEos/): 21 Jan
+  - [Hydrualic Control](./HydraulicControl/): 28 Jan
+  - [Waves](./Waves/): 4 Feb
+  - [Vorticity](./Vorticity): 11 Feb
+  - [Lift and drag](./Lift): 4 Mar
+  - [Laminar Flow](./LaminarFlow): 11 Mar
+  - [Stratified Flow](./StratifiedFlow): 18 Mar
+  - [Instability](./StratifiedFlow): 25 Mar
