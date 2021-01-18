@@ -75,7 +75,7 @@ the other two directions of $d$ floating on top of a fluid of density $\rho_o$.
 
 Demonstrate that the
 block is stable to tipping if
-$$ \left( \frac{d}{L}\right)^2 > 6 \left(\frac{\rho}{\rho_o}\right)\left(1-\frac{\rho}{\rho_o}\right)
-$$
+
+$$ \left( \frac{d}{L}\right)^2 > 6 \left(\frac{\rho}{\rho_o}\right)\left(1-\frac{\rho}{\rho_o}\right) $$
 
 Some hints: Consider the torque about the centerline of the block at the water line.  I found this easiest to do by transforming the co-ordinate system so relative to the block so that the block is still vertical, but gravity and the water line are tilted, but either reference frame is fine.  Its best to consider two point sources, one pulling down at the center of mass and one pushing up at the center of buoyancy.  Please no results that depend on engineering formulas, unless you show the derivation of the engineering formula!
