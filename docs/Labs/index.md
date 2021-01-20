@@ -43,11 +43,11 @@ document.  Hand in on [BrightSpace](https://bright.uvic.ca/) as a zip file.
 
 ## Topics:
 
-  - [Pressure and Buoyancy](./PressureEos/): 21 Jan
-  - [Hydrualic Control](./HydraulicControl/): 28 Jan
-  - [Waves](./Waves/): 4 Feb
-  - [Vorticity](./Vorticity): 11 Feb
-  - [Lift and drag](./Lift): 4 Mar
-  - [Laminar Flow](./LaminarFlow): 11 Mar
-  - [Stratified Flow](./StratifiedFlow): 18 Mar
-  - [Instability](./StratifiedFlow): 25 Mar
+  - [Pressure and Buoyancy](./PressureEos/): 22 Jan  (Jody)
+  - [Hydrualic Control](./HydraulicControl/): 29 Jan
+  - [Waves](./Waves/): 5 Feb
+  - [Vorticity](./Vorticity): 12 Feb
+  - [Lift and drag](./Lift): 5 Mar
+  - [Laminar Flow](./LaminarFlow): 12 Mar
+  - [Stratified Flow](./StratifiedFlow): 19 Mar
+  - [Instability](./StratifiedFlow): 26 Mar
