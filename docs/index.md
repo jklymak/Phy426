@@ -13,7 +13,6 @@ Spring 2021
   - Email: [jklymak@uvic.ca](mailto:jklymak@uvic.ca)
   - Office Hours: By appointment
   - Meeting time:  TWF 11:30-12:20
-  - Lab time:  Th 13:30 (Or by agreement)
   - Location:  [Online](https://bright.uvic.ca)
 
   - Lab Instructor: [Andrew MacRae](http://web.uvic.ca/~macrae/)
