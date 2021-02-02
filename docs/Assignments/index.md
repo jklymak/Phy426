@@ -7,9 +7,10 @@ These are to be handed in on [BrightSpace](https://bright.uvic.ca/), and will du
 
   - [Assignment/Reading 1](../Assignments/Assignment01/)
   - [Assignment/Reading 2](../Assignments/Assignment02/)
+    - [Key](../Assignments/Assign2Key.html)
   - [Assignment/Reading 3](../Assignments/Assignment03/)
   {% comment %}
-    - [Key](../Assignments/Assignment3Key.html)
+  - [Key](../Assignments/Assignment3Key.html)
   {% endcomment %}
   - [Assignment/Reading 4](../Assignments/Assignment04/)
     {% comment %}
