@@ -7,11 +7,17 @@ These are to be handed in on [BrightSpace](https://bright.uvic.ca/), and will du
 
   - [Assignment/Reading 1](../Assignments/Assignment01/)
   - [Assignment/Reading 2](../Assignments/Assignment02/)
+    {% comment %}
     - [Key](../Assignments/Assign2Key.html)
+    {% endcomment %}
   - [Assignment/Reading 3](../Assignments/Assignment03/)
-  - [Key](../Assignments/Assignment3Key.html)
+    {% comment %}
+    - [Key](../Assignments/Assignment3Key.html)
+    {% endcomment %}
   - [Assignment/Reading 4](../Assignments/Assignment04/)
+    {% comment %}
     - [Key](../Assignments/Assignment4Key.html)
+    {% endcomment %}
   - [Assignment/Reading 5](../Assignments/Assignment05/)
     {% comment %}
     - [Key](../Assignments/Assignment5Key.html)
@@ -27,4 +33,6 @@ These are to be handed in on [BrightSpace](https://bright.uvic.ca/), and will du
   - [Assignment/Reading 11](../Assignments/Assignment11/)
 
   - [Take Home Final: Last Years (2021)!  DO NOT do this one...](../Assignments/TakeHome2021NoKey.pdf)
-    - [Key 2021](../Assignments/TakeHome2021.pdf)
+  {% comment %}
+      - [Key 2021](../Assignments/TakeHome2021.pdf)
+  {% comment %}
