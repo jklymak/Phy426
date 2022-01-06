@@ -35,4 +35,4 @@ These are to be handed in on [BrightSpace](https://bright.uvic.ca/), and will du
   - [Take Home Final: Last Years (2021)!  DO NOT do this one...](../Assignments/TakeHome2021NoKey.pdf)
   {% comment %}
       - [Key 2021](../Assignments/TakeHome2021.pdf)
-  {% comment %}
+  {% endcomment %}
