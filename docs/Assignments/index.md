@@ -3,7 +3,7 @@ layout: page
 title: Assignments
 ---
 
-These are to be handed in on [BrightSpace](https://bright.uvic.ca/), and will duplicated there with appropriate due dates.
+Handed in during class on the appropriate due dates:
 
   - [Assignment/Reading 1](../Assignments/Assignment01/)
   - [Assignment/Reading 2](../Assignments/Assignment02/)
@@ -31,8 +31,7 @@ These are to be handed in on [BrightSpace](https://bright.uvic.ca/), and will du
     - [Key](../Assignments/Assignment10key.html)
     {% endcomment %}
   - [Assignment/Reading 11](../Assignments/Assignment11/)
-
-  - [Take Home Final: Last Years (2021)!  DO NOT do this one...](../Assignments/TakeHome2021NoKey.pdf)
   {% comment %}
+  - [Take Home Final: Last Years (2021)!  DO NOT do this one...](../Assignments/TakeHome2021NoKey.pdf)
       - [Key 2021](../Assignments/TakeHome2021.pdf)
   {% endcomment %}

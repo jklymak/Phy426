@@ -5,7 +5,7 @@ title: Physics 426 Fluid Mechanics
 
 ## Physics 426 Fluid Mechanics
 
-Spring 2021
+Spring 2023
 
 ![Flow separation behind an airfoil](./figs/Flow_separation.jpg)
 
@@ -13,7 +13,7 @@ Spring 2021
   - Email: [jklymak@uvic.ca](mailto:jklymak@uvic.ca)
   - Office Hours: By appointment
   - Meeting time:  TWF 11:30-12:20
-  - Location:  [Online](https://bright.uvic.ca)
+  - Location:  [Bob Wright B121](https://www.uvic.ca/search/maps-buildings/buildings/bob-wright-centre-ocean-earth-and-atmospheric-sciences.php)
 
   - Lab Instructor: [Andrew MacRae](http://web.uvic.ca/~macrae/)
   - [macrae@uvic.ca](mailto:macrae@uvic.ca)
@@ -31,7 +31,7 @@ Spring 2021
 
 ## [Texts](./Texts/)
 
-Largely *Kundu and Cohen* Latest edition, but also see [Texts](./Texts/).  
+Largely *Kundu and Cohen* Latest edition, but also see [Texts](./Texts/).
 
 ### Notes for missed two weeks:
 
@@ -50,9 +50,10 @@ Largely *Kundu and Cohen* Latest edition, but also see [Texts](./Texts/).
 
 ## Course grading
 
-  - 55% [Assignments and Readings](./Assignments/);
+  - 35% [Assignments and Readings](./Assignments/);
+  - 10% Midterm Exam
   - 30% [Student-led Laboratory Demonstrations](./Labs/);
-  - 15% Final Exam (take home)
+  - 25% Final Exam
 
 Late work penalized as 10% per day, max 5 days.  Academic concessions will be granted
 with appropriate documentation as per [UVic's regulations](https://www.uvic.ca/registrar/students/appeals/acad-concession/index.php).
@@ -79,12 +80,13 @@ with appropriate documentation as per [UVic's regulations](https://www.uvic.ca/r
 
 These are filled out online at [ces.uvic.ca](http://ces.uvic.ca).  There should be a link to this course on your dashboard.
 
+{% comment %}
 ## BrightSpace
 
 - We will use [BrightSpace](https://bright.uvic.ca) to hand in assignments, and I will link to the assignments here.
-- We will use [BrightSpace](https://bright.uvic.ca) for announcements and discussions.  
+- We will use [BrightSpace](https://bright.uvic.ca) for announcements and discussions.
+{% endcomment %}
 
-{% comment %}
 
 ## Mailing list
 
@@ -97,5 +99,4 @@ To manage your list, have a look at the appropriate page:
 [https://lists.uvic.ca/mailman/listinfo/202001-phys426-22463](  https:// https://lists.uvic.ca/mailman/listinfo/202001-phys426-22463)
 
 Questions that will benefit all your classmates are very welcome on
-the list, i.e. about homework, etc.  
-{% endcomment %}
+the list, i.e. about homework, etc.
