@@ -27,7 +27,7 @@ Spring 2023
   - Gain experience in written and spoken presentation
 
 ## Schedule
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBdsEcu0JNihw_tKfIXN0-NfWmFAhtywBsucQjILdeRYTwl0EKghUeVpLchSuE9i-1dT_sPy-nLBTX/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width="600px" height="400px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBdsEcu0JNihw_tKfIXN0-NfWmFAhtywBsucQjILdeRYTwl0EKghUeVpLchSuE9i-1dT_sPy-nLBTX/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 ## [Texts](./Texts/)
 
@@ -50,10 +50,10 @@ Largely *Kundu and Cohen* Latest edition, but also see [Texts](./Texts/).
 
 ## Course grading
 
-  - 35% [Assignments and Readings](./Assignments/);
-  - 10% Midterm Exam
-  - 30% [Student-led Laboratory Demonstrations](./Labs/);
-  - 25% Final Exam
+  - 10% Class participation and attendance
+  - 40% [Assignments and Readings](./Assignments/);
+  - 25% [Student-led Laboratory Demonstrations](./Labs/);
+  - 25% Take-home Final Exam
 
 Late work penalized as 10% per day, max 5 days.  Academic concessions will be granted
 with appropriate documentation as per [UVic's regulations](https://www.uvic.ca/registrar/students/appeals/acad-concession/index.php).
