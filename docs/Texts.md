@@ -15,7 +15,7 @@ network or VPN at
   - Batchelor, *An Introduction to Fluid Dynamics*, 1967, is *the* classic
     in the field.  (on course reserve)  This book is quite
     mathematical, but also very verbose, with a *lot* of the intuition
-    explained in great prose.  
+    explained in great prose.  Also available [online](https://www-cambridge-org.ezproxy.library.uvic.ca/core/books/an-introduction-to-fluid-dynamics/18AA1576B9C579CE25621E80F9266993)
   - Acheson, *Fluid dynamics* is a good text I learned from in graduate
     school (on course reserve)
   - Lamb, *Hydrodynamics*, 1867, is a tough read, but a classic.  (on course
