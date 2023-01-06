@@ -27,7 +27,7 @@ Spring 2023
   - Gain experience in written and spoken presentation
 
 ## Schedule
-<iframe width="600px" height="400px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTMr7py9j3zxk1-92FaLa66KbfZsjcRG2Ud7v-7aj54YW2yOMcWe6a3cy_h_XYnOP1yoFozGyxqFRSj/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBdsEcu0JNihw_tKfIXN0-NfWmFAhtywBsucQjILdeRYTwl0EKghUeVpLchSuE9i-1dT_sPy-nLBTX/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 ## [Texts](./Texts/)
 
