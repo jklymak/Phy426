@@ -55,8 +55,7 @@ Largely *Kundu and Cohen* Latest edition, but also see [Texts](./Texts/).
   - 25% [Student-led Laboratory Demonstrations](./Labs/);
   - 25% Take-home Final Exam
 
-Late work penalized as 10% per day, max 5 days.  Academic concessions will be granted
-with appropriate documentation as per [UVic's regulations](https://www.uvic.ca/registrar/students/appeals/acad-concession/index.php).
+Late work penalized as 10% per day, max 5 days.  Academic concessions will be granted with appropriate documentation as per [UVic's regulations](https://www.uvic.ca/registrar/students/appeals/acad-concession/index.php).  Working together on assignments is acceptable, but they are to be handed in independently.  The final examination will be done individually.  Students are expected to follow the [UVic standards for academic integrity](https://www.uvic.ca/students/academics/academic-integrity/index.php).
 
 ## [Laboratory Demonstrations](./Labs/)
 
@@ -92,11 +91,11 @@ These are filled out online at [ces.uvic.ca](http://ces.uvic.ca).  There should 
 
 Please feel free to contact me through the mailing lists:
 
-[202001-phys426-22463@lists.uvic.ca](mailto:202001-phys426-22463@lists.uvic.ca)
+[202301-phys426-22703@lists.uvic.ca](mailto:202301-phys426-22703@lists.uvic.ca)
 
 To manage your list, have a look at the appropriate page:
 
-[https://lists.uvic.ca/mailman/listinfo/202001-phys426-22463](  https:// https://lists.uvic.ca/mailman/listinfo/202001-phys426-22463)
+<https://lists.uvic.ca/mailman/listinfo/202301-phys426-22703>
 
 Questions that will benefit all your classmates are very welcome on
 the list, i.e. about homework, etc.

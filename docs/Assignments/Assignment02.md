@@ -8,25 +8,24 @@ title: Assignment 2, Physics 426 Fluid Mechanics
 - Chapter 2: This chapter is about Cartesian Tensors which are a very
 important mathematical concept.  Hopefully you have seen before.  Skimming this chapter is useful, but our use of it will be peripheral in the course.
 - Chapter 3: This material will be covered as we need it in the lectures
-that follow.  
+that follow.
 - Chapter 4: Read most of this chapter:
   - conservation of mass (and the Boussinesq Approximation)
   - conservation of momentum
-  - Bernoulli's Equation.  
+  - Bernoulli's Equation.
   - skim/skip thermodynamics.  Of course we love thermodynamics, but the
-  practical applications are limited for most of fluid mechanics.  
-
+  practical applications are limited for most of fluid mechanics.
 
 ### R1:  Steady flow in channel
 
-Imagine steady water flow down a rectangular channel that is 1-m wide.  
+Imagine steady water flow down a rectangular channel that is 1-m wide.
 For specificity, assume the water is 1 m deep.
   - Imagine dye is injected in the channel at four spots across the channel
-  and sketch what the dye would trace out in time.  
+  and sketch what the dye would trace out in time.
   - If there is no friction, and the water doesn't accelerate or decelerate,
-  how much energy is need to keep it moving?  
+  how much energy is need to keep it moving?
   - If there is friction, and the flow is still steady (i.e. the friction doesn't stop it), what force might be causing the water to keep moving down-
-  channel?  
+  channel?
 
 ### R2: Widening channel
 
@@ -35,7 +34,7 @@ steady (in time); again assume *no friction*:
   - sketch what the dye streaks might look like as the channel widens.  Why did
   you choose these paths?
   - if you sketched your dye streaks properly, what do you thinks is conserved
-  between them?  
+  between them?
   - Assuming there is no friction, what forces are in the fluid that act to
   change the flow speed?
 
@@ -46,10 +45,10 @@ that it looks like a circle from above; again assume steady flow and no
 friction:
   - sketch how equally spaced dye streaks placed far upstream of the
   cylinder will deform around the cylinder.
-  - what forces cause the deformation around the cylander?  
+  - what forces cause the deformation around the cylander?
   - change co-ordinate systems for a minute, and imagine the cylinder
   being pulled through the water.  What is the net rate of work (F*u)
-  necessary to pull it through the water?  
+  necessary to pull it through the water?
 
 
 ## Assignment (graded)
@@ -66,11 +65,11 @@ Consider a tube bent in the shape of a squared-off "u".  At a given instance of 
  - What direction will water flow due to this pressure difference?
  - Does it matter how wide each vertical pipe in the "u" is?  Why or why not?
  - What is the pressure difference is left hand pipe is inclined at a 45 degree
-   angle?  
+   angle?
 
 ### A2: Tilting block (/10)
 
-Consider a block of density $\rho$, with vertical height $L$, and widths in  
+Consider a block of density $\rho$, with vertical height $L$, and widths in
 the other two directions of $d$ floating on top of a fluid of density $\rho_o$.
 
 Demonstrate that the
