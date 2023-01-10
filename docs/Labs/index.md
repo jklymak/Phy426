@@ -56,5 +56,5 @@ document.  Hand in via email as a zip file (or link to a zip file somewhere).
 
 ## Previous year's demos
 
-  - [2020][../lab_demos20/]
-  - [2021][../lab_demos21/]
+  - [2020](../lab_demos20/)
+  - [2021](../lab_demos21/)
