@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Laboratory Demos 2021
 ---
 

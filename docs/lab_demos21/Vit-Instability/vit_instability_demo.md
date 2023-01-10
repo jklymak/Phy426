@@ -1,3 +1,6 @@
+--
+layout: default
+--
 # Kelvin Helmholtz Instability
 
 #### Marcus Vit (Spring 2021)
@@ -11,7 +14,7 @@ $$k\rho_1\rho_2(U_1 - U_2)^2 > g(\rho_2^2 - \rho_1^2)$$
 If this inequality is satisfied then the layers will become unstable. Since $k = 2\pi/\lambda$ it can be seen that there will always be a $\lambda$ small enough to make the inequality true if there is a difference between the densities and the velocities of the layers.
 
 The inequality has some other implications as well. If $\rho_1 = \rho_2$ the the left side of the inequality will be zero so if there is a velocity difference the inequality is always true thus the fluid layers will always be unstable. This is referred to as a vortex sheet.
-It can also be seen that if there is no velocity difference ($U_1 = U_2$) then the right hand side of the inequality is always zero. If this is true then the inequality is never true so the fluid is always stable. 
+It can also be seen that if there is no velocity difference ($U_1 = U_2$) then the right hand side of the inequality is always zero. If this is true then the inequality is never true so the fluid is always stable.
 
 Below are two examples of what Kelvin Helmholtz Instability looks like in a cloud
 ![title](https://images2.minutemediacdn.com/image/upload/c_fill,g_auto,h_1248,w_2220/f_auto,q_auto,w_1100/v1555929360/shape/mentalfloss/6a0105371bb32c970b01157111fe00970b-750wi-565x369_5.jpg)
@@ -27,7 +30,7 @@ Below are two examples of what Kelvin Helmholtz Instability looks like in a clou
 
 ## Procedure
 
-Start pouring the dyed salt water into the tank. Add the fresh water to the tank very slowly as the experiment won't work if the fluid layers mix (the boundary should be as distinct as possible). The next step is creating a velocity difference between the layers. This can be done by tilting the tank such that there is a significant velocity difference or by lifting the tank and dropping it. 
+Start pouring the dyed salt water into the tank. Add the fresh water to the tank very slowly as the experiment won't work if the fluid layers mix (the boundary should be as distinct as possible). The next step is creating a velocity difference between the layers. This can be done by tilting the tank such that there is a significant velocity difference or by lifting the tank and dropping it.
 
 I was using a short, unsealed tank so my photos demonstrate the dropping method while a youtube video will demonstate the method with the sealed tank.
 
