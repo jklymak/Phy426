@@ -46,13 +46,13 @@ document.  Hand in via email as a zip file (or link to a zip file somewhere).
 ## Topics:
 
   - [Pressure and Buoyancy](./PressureEos/): 22 Jan  (Jody)
-  - [Hydrualic Control](./HydraulicControl/): 29 Jan
-  - [Waves](./Waves/): 5 Feb
-  - [Vorticity](./Vorticity): 12 Feb
-  - [Lift and drag](./Lift): 5 Mar
-  - [Laminar Flow](./LaminarFlow): 12 Mar
-  - [Stratified Flow](./StratifiedFlow): 19 Mar
-  - [Instability](./StratifiedFlow): 26 Mar
+  - [Hydrualic Control](./HydraulicControl/): 31 Jan
+  - [Waves](./Waves/): 7 Feb (Jody not here)
+  - [Vorticity](./Vorticity): 14 Feb (Jody not here)
+  - [Lift and drag](./Lift): 28 Feb
+  - [Laminar Flow](./LaminarFlow): 7 Mar
+  - [Stratified Flow](./StratifiedFlow): 14 Mar
+  - [Instability](./StratifiedFlow): 21 Mar
 
 ## Previous year's demos
 
