@@ -7,7 +7,7 @@ Handed in during class on the appropriate due dates:
 
   - [Assignment/Reading 1](../Assignments/Assignment01/)
   - [Assignment/Reading 2](../Assignments/Assignment02/)
-    - [Key](../Assignments/Assign2Key.html)
+    - [Key](../Assignments/Assign2Key.pdf)
   - [Assignment/Reading 3](../Assignments/Assignment03/)
     - [Key](../Assignments/Assignment3Key.html)
   - [Assignment/Reading 4](../Assignments/Assignment04/)
@@ -18,7 +18,7 @@ Handed in during class on the appropriate due dates:
     - [Key](../Assignments/Assignment6Key.html)
   - [Assignment/Reading 7](../Assignments/Assignment07/)
   - [Assignment/Reading 8](../Assignments/Assignment08/)
-    - [Key](../Assignments/Assignment8key.html)
+    - [Key](../Assignments/Assignment08key.html)
   - [Assignment/Reading 9](../Assignments/Assignment09/)
   - [Assignment/Reading 10](../Assignments/Assignment10/)
     {% comment %}
