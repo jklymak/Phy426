@@ -58,3 +58,4 @@ document.  Hand in via email as a zip file (or link to a zip file somewhere).
 
   - [2020](../lab_demos20/)
   - [2021](../lab_demos21/)
+  - [2023](../lab_demos23/)
