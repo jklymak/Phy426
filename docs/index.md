@@ -5,7 +5,7 @@ title: Physics 426 Fluid Mechanics
 
 ## Physics 426 Fluid Mechanics
 
-Spring 2023
+Spring 2024
 
 ![Flow separation behind an airfoil](./figs/Flow_separation.jpg)
 
@@ -79,14 +79,13 @@ Late work penalized as 10% per day, max 5 days.  Academic concessions will be gr
 
 These are filled out online at [ces.uvic.ca](http://ces.uvic.ca).  There should be a link to this course on your dashboard.
 
-{% comment %}
 ## BrightSpace
 
 - We will use [BrightSpace](https://bright.uvic.ca) to hand in assignments, and I will link to the assignments here.
 - We will use [BrightSpace](https://bright.uvic.ca) for announcements and discussions.
-{% endcomment %}
 
 
+{% comment %}
 ## Mailing list
 
 Please feel free to contact me through the mailing lists:
@@ -99,3 +98,4 @@ To manage your list, have a look at the appropriate page:
 
 Questions that will benefit all your classmates are very welcome on
 the list, i.e. about homework, etc.
+{% endcomment %}
