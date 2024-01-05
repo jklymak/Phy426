@@ -27,7 +27,8 @@ Spring 2024
   - Gain experience in written and spoken presentation
 
 ## Schedule
-<iframe width="600px" height="400px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBdsEcu0JNihw_tKfIXN0-NfWmFAhtywBsucQjILdeRYTwl0EKghUeVpLchSuE9i-1dT_sPy-nLBTX/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+<iframe width="600px" height="400px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQwqpsvc1WVr9fVoLUAD0K88oBXNZiUsc-iNn063-jG9mkYb-cyGAQZN25V-umb9CQPrKskD64NGqOG/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 ## [Texts](./Texts/)
 
