@@ -6,10 +6,10 @@ title: Assignment/Reading 4, Physics 426 Fluid Mechanics
 
 ## Reading (Participation only, very short answer)
 
-  - Ch 7, sections 11 to 13 non-linear steepening waves, hydrualic jumps, solitons.  
+  - Ch 7, sections 11 to 13 non-linear steepening waves, hydrualic jumps, solitons.
 
 
-### R1: Why do waves tend to steepen?  
+### R1: Why do waves tend to steepen?
 
 Waves tend to steepen: why?
 
@@ -23,14 +23,32 @@ What two wave tendencies are balanced in a soliton?
 
 ## Assignment
 
- - Energy Conservation: Bernoulli Fcn
- - Shallow Water Equations
- - Hydraulic Control
+ - Kiniematics
+ - Conservation of mass
 
-### A1: Conservation of momentum in hydraulically controlled flow  (/20)
+### A1: Streamlines in a corner flow (/15)
 
-  Consider flow over an isolated obstacle in a channel, as in class.  Assume that the obstacle is a triangle, with height off a flat channel of $h_m = 10\ \mathrm{m}$, and that the triangle's ramp has a slope of 1/100.  Assume that the incoming two-d flow transport is a fixed $30\ \mathrm{m^2\,s^{-1}}$, that the flow is in steady state, and that the flow is controlled at the crest.
+The flow in a 90-degree bend at the origin can be described by
 
-  - What is the thickness of the water column, $d_0$, far upstream of the obstacle?  (Note that we cannot assume $u_0 = 0$ upstream of the obstacle, but otherwise the derivation is the same.  OK to use a root finder and give a numeric answer)
-  - Knowing the height far upstream, you can numerically integrate in $x$ (or calculate the cubic at each point in $x$) to get the water thickness $d(x)$ as a function of $x$.  Plot the water thickness as a function of $x$ from $x=-1000 m$ (upstream) to $x=0\ \mathrm{m}$ (the crest).  Check that at the sill crest $\frac{u_m^2}{g d_m} = F_m = 1$ in your calculation.  For precision, make sure that you have a data point every 10 cm or so; include your code, and the expressions you used to get the interface heights.  Make the plot as nice as possible - including the obstacle, helps.  
-  -  Knowing the water thickness as a function of $x$, numerically demonstrate that the integrated momentum balance is satisfied in the x-direction over a volume that extends from upstream of the sill to the sill crest.   
+$$u = y$$
+
+$$v = x$$
+
+  - Derive and sketch the streamlines $\psi$ of the flow.
+  - Contour the streamfunction on a computer
+    - where in the flow would you put the walls to make this a flow in a corner?
+  - Demonstrate analytically that the the flow is non-divergent (i.e. that the
+    sum of the linear strain rates is zero)
+  - Demonstrate that it is close to non-divergent in your computer code.
+  - put two material lines that are initially perpendicular to each other somewhere in the flow and numerically advect them forward in time enough to see some distortion.  Show that the rate that the elements come together or spread apart is close to the shear strain rate you would calculate analytically.  (For the advection, I used a 2-d interpolation in scipy, which is a little funky (see below))
+
+```python
+    import scipy.interpolate as sinterp
+    fu = sinterp.RectBivariateSpline(x, y, u.T)  # get the interpolant
+    lineU = fu(line0x, line0y, grid=False)   # do the interpolation
+```
+
+
+### A2: Multiple density mixing vat (/5)
+
+Suppose we have a mixing vat, with one inflow at $q_1 = 2\ m^3\,s^{-1}$ and a fluid of density $\rho_1 = 1000\ kg\,m^{-3}$, and a second inflow with density $\rho_2 = 1030\ kg\,m^{-3}$, and an outflow with density $\rho_3 = 1028\ kg\,m^{-3}$.  What must the outflow rate be if the fluids are incompressible?
