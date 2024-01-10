@@ -53,28 +53,11 @@ friction:
 
 ## Assignment (graded)
 
- - Buoyancy and pressure
+### A1: Conservation of momentum in hydraulically controlled flow  (/20)
 
-### A1: Pressure in u-tube (not YouTube) (/5)
+  Consider flow over an isolated obstacle in a channel, as in class.  Assume that the obstacle is a triangle, with height off a flat channel of $h_m = 5\ \mathrm{m}$, and that the triangle's ramp has a slope of 1/100.  Assume that the incoming two-d flow transport is a fixed $10\ \mathrm{m^2\,s^{-1}}$, that the flow is in steady state, and that the flow is controlled at the crest.
 
-![U-Tube](../figs/Assignment2UTube.png)
+  - What is the thickness of the water column, $d_0$, far upstream of the obstacle?  (Note that we cannot assume $u_0 = 0$ upstream of the obstacle, but otherwise the derivation is the same.  OK to use a root finder and give a numeric answer)
+  - Knowing the height far upstream, you can numerically integrate in $x$ (or calculate the cubic at each point in $x$) to get the water thickness $d(x)$ as a function of $x$.  Plot the water thickness as a function of $x$ from $x=-1000 m$ (upstream) to $x=0\ \mathrm{m}$ (the crest).  Check that at the sill crest $\frac{u_m^2}{g d_m} = F_m = 1$ in your calculation.  For precision, make sure that you have a data point every 10 cm or so; include your code, and the expressions you used to get the interface heights.  Make the plot as nice as possible - including the obstacle, helps.
+  -  Knowing the water thickness as a function of $x$, numerically demonstrate that the integrated momentum balance is satisfied in the x-direction over a volume that extends from upstream of the sill to the sill crest.  eg show that the momentum in versus the momentum out is balanced by the net forces on the water in the x-direction.
 
-Consider a tube bent in the shape of a squared-off "u".  At a given instance of time the water is 10 cm higher in the left side of the tube than the right side of the tube (of course it doesn't stay that way)...
-
- - What is the pressure difference at the bottom of each pipe?
- - What direction will water flow due to this pressure difference?
- - Does it matter how wide each vertical pipe in the "u" is?  Why or why not?
- - What is the pressure difference is left hand pipe is inclined at a 45 degree
-   angle?
-
-### A2: Tilting block (/10)
-
-Consider a block of density $\rho$, with vertical height $L$, and widths in
-the other two directions of $d$ floating on top of a fluid of density $\rho_o$.
-
-Demonstrate that the
-block is stable to tipping if
-
-$$ \left( \frac{d}{L}\right)^2 > 6 \left(\frac{\rho}{\rho_o}\right)\left(1-\frac{\rho}{\rho_o}\right) $$
-
-Some hints: Consider the torque about the centerline of the block at the water line.  I found this easiest to do by transforming the co-ordinate system so relative to the block so that the block is still vertical, but gravity and the water line are tilted, but either reference frame is fine.  Its best to consider two point sources, one pulling down at the center of mass and one pushing up at the center of buoyancy.  Please no results that depend on engineering formulas (like metacentre), unless you show the derivation of the engineering formula!
