@@ -26,7 +26,7 @@ What two wave tendencies are balanced in a soliton?
  - Kiniematics
  - Conservation of mass
 
-### A1: Streamlines in a corner flow (/15)
+### A1: Streamlines in a corner flow (/10)
 
 The flow in a 90-degree bend at the origin can be described by
 
@@ -34,19 +34,11 @@ $$u = y$$
 
 $$v = x$$
 
-  - Derive and sketch the streamlines $\psi$ of the flow.
+  - Derive and sketch the streamlines $\psi$ of the flow, where $u = \partial \psi / \partial y$ and $v = -\partial \psi / \partial x$:
   - Contour the streamfunction on a computer
     - where in the flow would you put the walls to make this a flow in a corner?
-  - Demonstrate analytically that the the flow is non-divergent (i.e. that the
-    sum of the linear strain rates is zero)
+  - Demonstrate analytically that the the flow is non-divergent.
   - Demonstrate that it is close to non-divergent in your computer code.
-  - put two material lines that are initially perpendicular to each other somewhere in the flow and numerically advect them forward in time enough to see some distortion.  Show that the rate that the elements come together or spread apart is close to the shear strain rate you would calculate analytically.  (For the advection, I used a 2-d interpolation in scipy, which is a little funky (see below))
-
-```python
-    import scipy.interpolate as sinterp
-    fu = sinterp.RectBivariateSpline(x, y, u.T)  # get the interpolant
-    lineU = fu(line0x, line0y, grid=False)   # do the interpolation
-```
 
 
 ### A2: Multiple density mixing vat (/5)
