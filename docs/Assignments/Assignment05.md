@@ -6,7 +6,7 @@ title: Assignment/Reading 5, Physics 426 Fluid Mechanics
 
 ## Reading (Participation only, very short answer)
 
-  - Sec 3.8, 3.11  
+  - Sec 3.8, 3.11
   - Ch 5, but skim 5.7
 
 
@@ -16,11 +16,11 @@ What variable drops out of the vorticity equation compared to the momentum equat
 
 ### R2: Circulation
 
-Sometimes we want to know the vorticity.  Why might it be easier to measure the circulation than the vorticity, and hence why would we calculate the circulation of a flow?  
+Sometimes we want to know the vorticity.  Why might it be easier to measure the circulation than the vorticity, and hence why would we calculate the circulation of a flow?
 
 ### R3: Method of images
 
-Vortex interactions with a wall can be modelled using the method of images.  What is the electrical equivalent?  
+Vortex interactions with a wall can be modelled using the method of images.  What is the electrical equivalent?
 
 ## Assignment
 
