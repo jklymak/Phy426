@@ -17,10 +17,13 @@ Handed in during class on the appropriate due dates:
   - [Assignment/Reading 6](../Assignments/Assignment06/)
     - [Key](../Assignments/Assignment6Key.html)
   - [Assignment/Reading 7](../Assignments/Assignment07/)
+    - [Key](../Assignments/Assignment07Key.pdf)
   - [Assignment/Reading 8](../Assignments/Assignment08/)
     - [Key](../Assignments/Assignment08Key.html)
   - [Assignment/Reading 9](../Assignments/Assignment09/)
+    {% comment %}
     - [Key](../Assignments/Assignment09Key.pdf)
+    {% endcomment %}
   - [Assignment/Reading 10](../Assignments/Assignment10/)
     {% comment %}
     - [Key](../Assignments/Assignment10key.html)
