@@ -1,3 +1,7 @@
+---
+layout: default
+title: Issa, Mao, Pathak
+---
 # Siphon
 Repeat the experiment but with a hose that goes higher than the surface of the reservoir, but outlets below the surface of the reservoir.
 ## Experiment Setup

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Issa, Mao, Pathak
+---
+
 # Lab Demo: Hydrostatic Pressure and Nozzle Velocity
 
 ## Theory
@@ -96,7 +101,7 @@ $$ R = \sqrt{4H \cdot H_{\text{tank}}} $$
 
 1. **Filling the Reservoir:**
    - We filled the large orange-colored reservoir with water.
-   - The reservoir dimensions were: 
+   - The reservoir dimensions were:
      - Length: $70\,cm$
      - Breadth: $26.5\,cm$
    - Diameter of the smaller opening at the bottom of the tank $\approx 0.6\,cm$
@@ -135,7 +140,7 @@ Contrary to theoretical predictions suggesting a correlation of the form $y = A\
 
 ## Conclusion
 
-The laboratory demonstration focusing on hydrostatic pressure and nozzle velocity aimed to investigate the dynamics of water flowing through a small aperture at the bottom of a tank, utilizing principles of fluid dynamics and the application of Bernoulli's and continuity equations. 
+The laboratory demonstration focusing on hydrostatic pressure and nozzle velocity aimed to investigate the dynamics of water flowing through a small aperture at the bottom of a tank, utilizing principles of fluid dynamics and the application of Bernoulli's and continuity equations.
 
 Experimental findings, however, revealed discrepancies between theoretical predictions and observed data. These discrepancies could be attributed to several factors, including measurement inaccuracies due to water dispersion upon exit, the effects of refraction on height measurements, and the limited range of water levels tested. Despite these challenges, the experiment offered valuable insights into the complexities of fluid dynamics in practical applications.
 
