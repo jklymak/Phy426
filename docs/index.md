@@ -18,13 +18,18 @@ Spring 2025
   - Lab Instructor: [Andrew MacRae](http://web.uvic.ca/~macrae/)
   - [macrae@uvic.ca](mailto:macrae@uvic.ca)
 
-## Course Objectives ##
+## Course Description
 
-  - Learn the fundamental properties of fluids.
-  - Apply conservation laws to theoretical and practical problems
-  - Apply (simple) numerical methods to fluid problems
-  - Gain experience with laboratory methods
-  - Gain experience in written and spoken presentation
+Introductory Fluid Mechanics with a focus on applied natural world problems, including hydraulic flow over a weir in a channel, surface wave dynamics, lift due to flow over an airfoil, and onset of instabilities that lead to turbulence.
+
+## Course Objectives
+
+-	Improved ability to linearize and simplify problems using scaling laws
+-	Better appreciation of exploring parameter space for complex phenomena
+-	Improved ability to create and analyse numerical simulations
+-	Practice demonstrating and explaining phenomena to classmates.
+
+
 
 ## Schedule
 
