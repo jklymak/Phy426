@@ -3,6 +3,11 @@ layout: page
 title: Assignments
 ---
 
+## 2025 Assignments
+
+- Assignment 1: [Assignment01.ipynb](./Assignment01.ipynb)
+
+## Old assignments
 Handed in during class on the appropriate due dates:
 
   - [Assignment/Reading 1](../Assignments/Assignment01/)
