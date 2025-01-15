@@ -6,6 +6,7 @@ title: Assignments
 ## 2025 Assignments
 
 - Assignment 1: [Assignment01.ipynb](../Assignments/Assignment01.ipynb)
+  - You will also need [sve_hybrid.py](../Assignments/sve_hybrid.py); Put this in the same directory as your notebook.
 
 ## Old assignments
 Handed in during class on the appropriate due dates:
