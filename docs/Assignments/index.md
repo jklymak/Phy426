@@ -7,6 +7,7 @@ title: Assignments
 
 - Assignment 1: [Assignment01.ipynb](../Assignments/Assignment01.ipynb)
   - You will also need [sve_hybrid.py](../Assignments/sve_hybrid.py); Put this in the same directory as your notebook.
+  - Hydraulic flow is not covered super well in the text.  You may want to look at [Chapter 2.3](../pdfs/Baines2.3.pdf) of Baines 1995.
 
 ## Old assignments
 Handed in during class on the appropriate due dates:
