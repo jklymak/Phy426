@@ -8,6 +8,11 @@ title: Assignments
 - Assignment 1: [Assignment01.ipynb](../Assignments/Assignment01.ipynb)
   - You will also need [sve_hybrid.py](../Assignments/sve_hybrid.py); Put this in the same directory as your notebook.
   - Hydraulic flow is not covered super well in the text.  You may want to look at [Chapter 2.3](../pdfs/Baines2.3.pdf) of Baines 1995.
+  - [Key](../Assignments/Assignment01Key.ipynb)
+- Assignment 2: [Assignment02.ipynb](../Assignments/Assignment02.ipynb)
+  - You will also need to _re-download_ [sve_hybrid.py](../Assignments/sve_hybrid.py); Put this in the same directory as your notebook.
+  - If you would like more guidance, your textbook has good info.  So does the [linear wave](../pdfs/LinearWaveNotes_4March2019.pdf) notes from Falk Federsen, Scripps Institute of Oceanography; see Sec 5.
+
 
 ## Old assignments
 Handed in during class on the appropriate due dates:
