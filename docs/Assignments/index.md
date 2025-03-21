@@ -12,6 +12,11 @@ title: Assignments
 - Assignment 2: [Assignment02.ipynb](../Assignments/Assignment02.ipynb)
   - You will also need to _re-download_ [sve_hybrid.py](../Assignments/sve_hybrid.py); Put this in the same directory as your notebook.
   - If you would like more guidance, your textbook has good info.  So does the [linear wave](../pdfs/LinearWaveNotes_4March2019.pdf) notes from Falk Federsen, Scripps Institute of Oceanography; see Sec 5.
+- Assignment 3: [Assignment03.ipynb](../Assignments/Assignment03.ipynb)
+  - Much of this material is covered in the text book.  Note you need to get `2d_fluid_simulator` to run, so make sure you leave time to get that working.
+  - [2d_fluid_simulator.zip](./2d-fluid-simulator.zip)
+
+
 
 
 ## Old assignments
