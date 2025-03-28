@@ -50,6 +50,7 @@ Largely *Kundu and Cohen* Latest edition, but also see [Texts](./Texts/).
 
 ### Other resources
 
+  - [An Album of Fluid Motion, Milton Van Dyke, 1982](./pdfs/Album-Fluid-Motion-Van-Dyke.pdf)
   - [National Committee for Fluid Mechanics Films](http://web.mit.edu/hml/ncfmf.html) are still excellent 58 years later.
   There are [written notes](http://web.mit.edu/hml/notes.html) as well.
   - [Notes on Shocks](./pdfs/PrattSec1.3_11445.pdf)
