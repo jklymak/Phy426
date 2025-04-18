@@ -5,12 +5,6 @@ date: March 2025
 layout: lab_demos
 ---
 
-img {
-  max-width: 600px;
-  height: auto;
-}
-
-
 In this lab report, I will present two examples of experiments in which to explore the properties of laminar flow. The first experiment uses a Couette Cell, pictured below, to demonstrate that laminar flow is a reversible process. The second experiment uses an Osborne Reynolds apparatus to numerically determine the Reynolds Numbers that correspond to the region of laminar flow for water.
 
 
