@@ -28,19 +28,29 @@ The Osborne Reynolds apparatus can be used to show the flow of dye through a pip
 
 I used this knob and two Erlenmeyer flasks of volumes 200mL and 1000mL and with each having a quoted uncertainty of 5% to measure the time it took to fill these flasks at various flow speeds adjusted by the knob. For low flow speeds, I found it helpful to turn off the water being pumped into the tank, but this wasn't possible for higher flow speeds since the tank would quickly empty. With time and volume, I calculated the volumetric flow rate and uncertainty using the following equations:
 
-$$u=\frac{V}{t}$$
+$$
+u=\frac{V}{t}
+$$
 
-$\sigma_{u}=\sqrt{\frac{1}{t}^2*\sigma_{V}^2+\frac{V}{t^2}^2*\sigma_{t}^2}$.
+$$
+\sigma_{u}=\sqrt{\frac{1}{t}^2*\sigma_{V}^2+\frac{V}{t^2}^2*\sigma_{t}^2}
+$$.
 
 with the uncertainty in the volume given by which flask I used in the measurement and the uncertainty in time taken to be a base .05s. Now, the equation for Reynolds Number is,
 
-$R=\frac{UL}{\nu}$,
+$$
+R=\frac{UL}{\nu}
+$$,
 
 with U being the velocity, L being the width of the pipe, and $\nu$ being the kinematic viscosity. The kinematic viscosity was taken from https://www.ksb.com/en-global/centrifugal-pump-lexicon/article/kinematic-viscosity-1117008 to be $1.002*10^{-6}\frac{m^2}{s}$ with negligible uncertainty. I calculated the velocity and associated uncertainty using the cross sectional area of the pipe, who's width I measured to be $1.3cm\pm .05cm$, using the equations
 
-$U=\frac{u}{4\pi L^2}$
+$$
+U=\frac{u}{4\pi L^2}
+$$
 
-$\sigma_U=\sqrt{\frac{1}{\pi L^2}^2*\sigma_u^2+\frac{2u}{\pi r^3}^2*\sigma_L^2}$.
+$$
+\sigma_U=\sqrt{\frac{1}{\pi L^2}^2*\sigma_u^2+\frac{2u}{\pi r^3}^2*\sigma_L^2}
+$$.
 
 With these values, I could calculate the Reynolds Number for all my data points, which I visually classified as laminar, semi-turbulent, or turbulent, using the uncertainty relation
 
