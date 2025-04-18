@@ -34,7 +34,7 @@ The Osborne Reynolds apparatus can be used to show the flow of dye through a pip
 
 I used this knob and two Erlenmeyer flasks of volumes 200mL and 1000mL and with each having a quoted uncertainty of 5% to measure the time it took to fill these flasks at various flow speeds adjusted by the knob. For low flow speeds, I found it helpful to turn off the water being pumped into the tank, but this wasn't possible for higher flow speeds since the tank would quickly empty. With time and volume, I calculated the volumetric flow rate and uncertainty using the following equations:
 
-$u=\frac{V}{t}$
+$$u=\frac{V}{t}$$
 
 $\sigma_{u}=\sqrt{\frac{1}{t}^2*\sigma_{V}^2+\frac{V}{t^2}^2*\sigma_{t}^2}$.
 
