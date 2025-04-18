@@ -1,4 +1,5 @@
 ---
+layout: labdemo
 title: Laminar Flow
 author: Alec Cannon
 date: 2025

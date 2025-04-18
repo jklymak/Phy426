@@ -1,4 +1,6 @@
 ---
+layout: labdemo
+
 title: Lift and Drag
 authors: Stanley Netherton and Leonard Griffiths
 date: March 31st 2025
