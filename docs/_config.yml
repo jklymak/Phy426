@@ -19,3 +19,7 @@ paginate_path: "blog/page:num"
 
 github:
   repo:           https://github.com/jklymak/Phy426
+
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
