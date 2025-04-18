@@ -54,7 +54,9 @@ $$.
 
 With these values, I could calculate the Reynolds Number for all my data points, which I visually classified as laminar, semi-turbulent, or turbulent, using the uncertainty relation
 
-$\sigma_R=\sqrt{\frac{L}{\nu}^2*\sigma_U^2+\frac{U}{\nu}^2*\sigma_L^2}$
+$$
+\sigma_R=\sqrt{\frac{L}{\nu}^2*\sigma_U^2+\frac{U}{\nu}^2*\sigma_L^2}
+$$
 
 These numbers are shown in the table below as well as images of a laminar, semi-turbulent, and turbulent flow respectively.
 
@@ -75,22 +77,3 @@ These numbers are shown in the table below as well as images of a laminar, semi-
 
 In the Laminar cases, the dye maintained its shape throughout the pipe. In the semi-turbulent cases, the dye would fluctuate between maintaining its shape and mixing with the water surrounding it. Also, it would become more evenly mixed further down the pipe. In turbulent cases, the dye was mixed with the water upon entering the pipe. While the uncertainties of my numbers are very high, the visual confirmation seems to support that turbulence became a factor at a Reynolds Number of around 700 and that the flows become fully turbulent at a Reynolds Number of 1000. The large uncertainties mostly come from the timing of the initial measurements. Using larger flasks for longer times would substantially reduce the uncertainty, as shown in the reduction of relative uncertainty between the 200mL and 1000mL flasks. There is an outlier in my data for the Reynolds Number of 765 being labeled as turbulent instead of semi-turbulent. However, this measurement was taken on the less precise 200mL flask.
 
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
