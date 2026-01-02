@@ -5,15 +5,15 @@ title: Physics 426 Fluid Mechanics
 
 ## Physics 426 Fluid Mechanics
 
-Spring 2025
+Spring 2026
 
 ![Flow separation behind an airfoil](./figs/Flow_separation.jpg)
 
   - Instructor: [Jody Klymak](http://web.uvic.ca/~jklymak)
   - Email: [jklymak@uvic.ca](mailto:jklymak@uvic.ca)
   - Office Hours: By appointment
-  - Meeting time:  TWF 11:30-12:20
-  - Location:  [Bob Wright B121](https://www.uvic.ca/search/maps-buildings/buildings/bob-wright-centre-ocean-earth-and-atmospheric-sciences.php)
+  - Meeting time:  TWF 13:30-14:20
+  - Location:  [Bob Wright B121/B119](https://www.uvic.ca/search/maps-buildings/buildings/bob-wright-centre-ocean-earth-and-atmospheric-sciences.php)
 
   - Lab Instructor: [Andrew MacRae](http://web.uvic.ca/~macrae/)
   - [macrae@uvic.ca](mailto:macrae@uvic.ca)
@@ -26,14 +26,13 @@ Introductory Fluid Mechanics with a focus on applied natural world problems, inc
 
 -	Improved ability to linearize and simplify problems using scaling laws
 -	Better appreciation of exploring parameter space for complex phenomena
--	Improved ability to create and analyse numerical simulations
+-	Improved ability to create and analyze numerical simulations
 -	Practice demonstrating and explaining phenomena to classmates.
-
 
 
 ## Schedule
 
-<iframe width="600px" height="400px"  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTg7RQ1fbnH_F6hkCc4caOc8IczekTniH1O-k5hGV5l0IgKOp4lCA6t9-gZJVH1SeHkhpI3FHX-StNM/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width="600px" height="400px"  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTGl1W59yMo--8ZDyw5Aq9gBsAF57zbcFLq7tSX_qvF88aZtAa-3MZA6uotQySwVpmbBn0kK-1WXakV/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 
 
