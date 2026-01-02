@@ -14,3 +14,6 @@ Pozrikidis.pdf
 *.*~
 python/DispersiveWave.mov
 Gemfile.lock
+# pixi environments
+.pixi/*
+!.pixi/config.toml
