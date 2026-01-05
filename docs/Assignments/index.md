@@ -3,6 +3,16 @@ layout: page
 title: Assignments
 ---
 
+To do the assignments, I use a python environment manager called [pixi](https://pixi.prefix.dev/latest/).  It is based on conda, which should be familiar, but it puts the environments in a local directory, so it doesn't mess up your other base installations.
+
+You will need:
+```
+numpy, scipy, ipympl, matplotlib, jupyter, tqdm, netcdf4, and xarray
+```
+to do these assignments.  Probably `dask` as well, though that sometimes has issues on Windows machines in my experience.
+
+If you have any issues setting up your environment, please reach out to me for help.  Note I do _not_ recommend using shared UVic resources like cyzgy for this as the compute requirements will be strained there.
+
 ## 2025 Assignments
 
 - Assignment 1: [Assignment01.ipynb](../Assignments/Assignment01.ipynb)
@@ -12,7 +22,6 @@ title: Assignments
   - [Key Assignment 1](../Assignments/Assignment01Key.ipynb)
   {% endcomment %}
 - Assignment 2: [Assignment02.ipynb](../Assignments/Assignment02.ipynb)
-  - You will also need to _re-download_ [sve_hybrid.py](../Assignments/sve_hybrid.py); Put this in the same directory as your notebook.
   - If you would like more guidance, your textbook has good info.  So does the [linear wave](../pdfs/LinearWaveNotes_4March2019.pdf) notes from Falk Federsen, Scripps Institute of Oceanography; see Sec 5.
   {% comment %}
   - [Key Assignment 2](../Assignments/Assignment02Key.ipynb)
