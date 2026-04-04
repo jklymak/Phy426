@@ -13,20 +13,18 @@ to do these assignments.  Probably `dask` as well, though that sometimes has iss
 
 If you have any issues setting up your environment, please reach out to me for help.  Note I do _not_ recommend using shared UVic resources like cyzgy for this as the compute requirements will be strained there.
 
-## 2025 Assignments
+## 2026 Assignments
 
 - Assignment 1: [Assignment01.ipynb](../Assignments/Assignment01.ipynb)
   - You will also need [sve_hybrid.py](../Assignments/sve_hybrid.py); Put this in the same directory as your notebook.
   - Hydraulic flow is not covered super well in the text.  You may want to look at [Chapter 2.3](../pdfs/Baines2.3.pdf) of Baines 1995.
   - [Key Assignment 1](../Assignments/Assignment01Key.ipynb)
-  Assignment 2: [Assignment02.ipynb](../Assignments/Assignment02.ipynb)
+- Assignment 2: [Assignment02.ipynb](../Assignments/Assignment02.ipynb)
   - If you would like more guidance, your textbook has good info.  So does the [linear wave](../pdfs/LinearWaveNotes_4March2019.pdf) notes from Falk Federsen, Scripps Institute of Oceanography; see Sec 5.
-  {% comment %}
   - [Key Assignment 2](../Assignments/Assignment02Key.ipynb)
-  {% endcomment %}
 - Assignment 3: [Assignment03.ipynb](../Assignments/Assignment03.ipynb)
   - Much of this material is covered in the text book.  Note you need to get `2d_fluid_simulator` to run, so make sure you leave time to get that working.
-  - [2d_fluid_simulator.zip](./2d-fluid-simulator.zip)
+  - [2d_fluid_simulator.zip](./2d-fluid-simulator.zip).  Note that this simulator can be finicky to set up sometimes, so please start early and reach out to me if you have any issues.
 
 
 
