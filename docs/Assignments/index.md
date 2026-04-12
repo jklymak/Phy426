@@ -25,7 +25,7 @@ If you have any issues setting up your environment, please reach out to me for h
 - Assignment 3: [Assignment03.ipynb](../Assignments/Assignment03.ipynb)
   - Much of this material is covered in the text book.  Note you need to get `2d_fluid_simulator` to run, so make sure you leave time to get that working.
   - [2d_fluid_simulator.zip](./2d-fluid-simulator.zip).  Note that this simulator can be finicky to set up sometimes, so please start early and reach out to me if you have any issues.
-
+  - [Key Assignment 3](../Assignments/Assignment03Key.ipynb)
 
 
 
